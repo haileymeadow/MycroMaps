@@ -40,8 +40,8 @@ The following datasets are/will be included in this repository:
 Ensure you have the following software installed:
 
 - [Download and install R](https://www.r-project.org/)
-- [Download and install RStudio](https://rstudio.com/) (Optional, but recommended for an enhanced R programming environment)
-- [Download and install QGIS](https://qgis.org/) (Optional, but recommended for spatial analysis and GIS integration)
+- [Download and install RStudio](https://rstudio.com/) (Optional, but recommended for easier R programming)
+- [Download and install QGIS](https://qgis.org/) (Optional, but recommended for spatial analysis and GIS integration, QGIS is opensource and free!)
 
 ## Contributing
 
