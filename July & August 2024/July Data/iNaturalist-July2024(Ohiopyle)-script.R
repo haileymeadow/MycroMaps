@@ -1,30 +1,64 @@
-# Load necessary libraries
-library(ggplot2)
-library(dplyr)
-library(RColorBrewer)  # For color palettes
+# Introduction ----
+
+# Plotting Fungi and Protozoa abundance by orders in Ohiopyle State Park
+# Data from July 1 2024 - August 1 2024, sourced from iNaturalist
+
+# Hailey Wittkopp for MycoMaps project
+# 08/13/2024
+
+
+# Libraries ----
+
+# Install these packages if not already installed
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("RColorBrewer")
+install.packages("extrafont")
+
+library(ggplot2) # Visualize Results
+library(dplyr) # Manipulate Data
+library(RColorBrewer) # Color Palette
+library(extrafont) # Fonts
+
+# More Fonts (this is optional, but I prefer utilizing fonts on my system)
+ # font_import() # Only do this for initial set-up, you should then be able to simply loadfonts()
+loadfonts()
+
+
+# Load Data ----
+# Set working directory on Windows
+setwd("C:/Users/wittk/OneDrive/Documents/MycoMaps/MycoMaps/July & August 2024/July Data")
 
 # Read the CSV file
-df <- read.csv("observations-468134.csv")
+OhiopyleData <- read.csv("iNaturalist-July2024(Ohiopyle).csv")
+
+# Analyze Data ----
 
 # Calculate counts per order
-order_counts <- df %>%
+order_counts <- OhiopyleData %>%
   group_by(taxon_order_name) %>%
-  summarize(count = n(), .groups = 'drop')
+  summarize(count = n())
 
-# Determine the maximum count value for setting y-axis limits
+# Check all variables are correct 
+str(OhiopyleData)
+
+# Plotting the Data ----
+
+# Y-axis Limit
 max_count <- max(order_counts$count)
 
-# Create a sequence of even numbers for y-axis breaks, extending slightly beyond max_count
-y_breaks <- seq(0, ceiling(max_count / 2) * 2, by = 2)  # Ensure even number intervals
 
-# Define consistent font sizes
+# Font Sizes
 title_size <- 16
 axis_title_size <- 14
 axis_text_size <- 12
 legend_title_size <- 14
 legend_text_size <- 12
 
-# Plot by order with colors
+# Plotting by Order using Colors 
+
+png("Ohiopyle-July2024Abundance.png")
+
 ggplot(order_counts, aes(x = reorder(taxon_order_name, -count), y = count, fill = taxon_order_name)) +
   geom_bar(stat = "identity", color = "black") +
   labs(
@@ -33,21 +67,21 @@ ggplot(order_counts, aes(x = reorder(taxon_order_name, -count), y = count, fill 
     y = "Count",
     fill = "Taxon Order"  # Legend title
   ) +
-  theme_minimal(base_family = "Arial") +  # Set base font family
+  theme_minimal(base_family = "Cambria") +  # Base Font
   theme(
-    axis.text.x = element_text(angle = 45, hjust = 1, size = axis_text_size, family = "Arial"),
-    axis.text.y = element_text(size = axis_text_size, family = "Arial"),
-    plot.title = element_text(hjust = 0.5, size = title_size, face = "bold", family = "Arial"),
-    axis.title.x = element_text(size = axis_title_size, family = "Arial"),
-    axis.title.y = element_text(size = axis_title_size, family = "Arial"),
-    legend.title = element_text(size = legend_title_size, family = "Arial"),
-    legend.text = element_text(size = legend_text_size, family = "Arial"),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = axis_text_size, family = "Cambria"),
+    axis.text.y = element_text(size = axis_text_size, family = "Cambria"),
+    plot.title = element_text(hjust = 0.5, size = title_size, face = "bold", family = "Cambria"),
+    axis.title.x = element_text(size = axis_title_size, family = "Cambria"),
+    axis.title.y = element_text(size = axis_title_size, family = "Cambria"),
+    legend.title = element_text(size = legend_title_size, family = "Cambria"),
+    legend.text = element_text(size = legend_text_size, family = "Cambria"),
     panel.grid.major = element_line(color = "grey80", size = 0.5),  # Add subtle major grid lines
-    panel.grid.minor = element_line(color = "grey90", size = 0.25),  # Add subtle minor grid lines
-    panel.border = element_blank()  # Remove border
   ) +
   scale_fill_brewer(palette = "Set3") +
   scale_y_continuous(
     breaks = y_breaks, 
     limits = c(0, ceiling(max_count / 2) * 2)  # Set y-axis limits
   )
+
+dev.off()
