@@ -1,23 +1,23 @@
-# Welcome to MycoMaps
+# MycoMaps
 
-Welcome to the MycoMaps project! This repository contains datasets, scripts, and resources for analyzing Fungi and Protozoa species using R and GIS tools. This project aims to provide a comprehensive set of data and tools for ecological research, biodiversity analysis, and spatial studies.
+Welcome to the MycoMaps project! This repository contains datasets, scripts, and resources for analyzing Fungi and Protozoa species using R and GIS tools. This project aims to provide a comprehensive set of data and tools for ecological research, biodiversity analysis, and spatial studies. This is currently an independent project, and will be updated slowly as I am currently pursuing my Bachelor's degree. 
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
+- [About the Project](#about-my-project)
 - [Datasets](#datasets)
-- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 
 ## About my Project
 
-This project was developed to facilitate the study and analysis of Fungi and Protozoa species through modern data science tools. As an Environmental Science student, I became fascinated with microbiologic organisms such as Fungi and Protozoa after I completed a Mycology course during my bachelor's degree. Combining my love for these organisms, and a passion for technology 
+This project was developed to facilitate the study and analysis of Fungi and Protozoa species through modern data science tools. As an Environmental Science student, I became fascinated with microbiologic organisms such as Fungi and Protozoa after I completed a Mycology course during my bachelor's degree. Combining my love for these organisms, and a passion for technology, this project was born!
 
 ### Key Features
 
-- **Comprehensive Datasets**: Includes diverse datasets on Fungi and Protozoa species, with metadata for easy integration.
-- **R Scripts**: Pre-written R scripts for data cleaning, visualization, and statistical analysis.
+- **Datasets**: Includes diverse datasets on Fungi and Protozoa species.
+- **R Scripts**: Pre-written R scripts for data cleaning, visualization, and statistical analysis. 
 - **GIS Tools**: Resources and guides for incorporating these datasets into GIS software for spatial analysis.
 - **Open-Source**: The repository is open to contributions and collaboration from the community.
 
@@ -34,10 +34,6 @@ The following datasets are included in this repository:
    - **Description**: Includes data on protozoa species, with a focus on species diversity and distribution.
    - **Format**: CSV, GeoJSON
    - **Source**: Field studies and verified databases.
-
-## Getting Started
-
-To get started with this project, clone the repository to your local machine.
 
 ## Prerequisites
 
