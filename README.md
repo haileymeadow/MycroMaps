@@ -7,9 +7,7 @@ Welcome to the MycoMaps project! This repository contains datasets, scripts, and
 - [About the Project](#about-the-project)
 - [Datasets](#datasets)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## About my Project
@@ -39,7 +37,7 @@ The following datasets are included in this repository:
 
 ## Getting Started
 
-To get started with this project, clone the repository to your local machine:
+To get started with this project, clone the repository to your local machine.
 
 ## Prerequisites
 
@@ -49,5 +47,12 @@ Ensure you have the following software installed:
 - [Download and install RStudio](https://rstudio.com/) (Optional, but recommended for an enhanced R programming environment)
 - [Download and install QGIS](https://qgis.org/) (Optional, but recommended for spatial analysis and GIS integration)
 
+## Contributing
 
+I welcome any and all contributions to this project! I am a beginner in learning GitHub, and have only general knowledge of plotting in R and GIS. This project is to help grow my skillsets. 
+
+## Acknowledgements
+
+- Special thanks to the mycology and protozoology communities for their data and insights.
+- This project was inspired by fieldwork and research conducted at [Pennsylvania Western University](https://sai.calu.edu/farm/) and inspired by other projects such as [SPUN](https://www.spun.earth/), [fungiMap](https://fungimap.org.au/), and [MyCoPortal](https://www.mycoportal.org/portal/index.php).
 
