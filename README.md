@@ -1,4 +1,4 @@
-# MycoMaps
+# MycoMaps 🍄
 
 Welcome to the MycoMaps project! This repository contains datasets, scripts, and resources for analyzing Fungi and Protozoa species using R and GIS tools. This project aims to provide a comprehensive set of data and tools for ecological research, biodiversity analysis, and spatial studies. This is currently an independent project, and will be updated slowly as I am currently pursuing my Bachelor's degree. 
 
