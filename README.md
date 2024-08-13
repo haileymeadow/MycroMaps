@@ -14,7 +14,7 @@
 
 This project was developed to facilitate the study and analysis of Fungi and Protozoa species through modern data science tools. As an Environmental Science student, I became fascinated with microbiologic organisms such as Fungi and Protozoa after I completed a Mycology course during my bachelor's degree. Combining my love for these organisms, and a passion for technology, this project was born!
 
-### Key Features
+### Key Features (ongoing)
 
 - **Datasets**: Includes diverse datasets on Fungi and Protozoa species.
 - **R Scripts**: Pre-written R scripts for data cleaning, visualization, and statistical analysis. 
@@ -23,7 +23,7 @@ This project was developed to facilitate the study and analysis of Fungi and Pro
 
 ## Datasets
 
-The following datasets are included in this repository:
+The following datasets are/will be included in this repository:
 
 1. **Fungi Species Dataset**:
    - **Description**: Contains records of various fungi species, including geographic locations, ecological conditions, and other relevant attributes.
