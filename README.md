@@ -1,6 +1,10 @@
-# MycoMaps 🍄
+# 🍄  MycoMaps 
+<div align="center">
+  <img src="https://github.com/haileymeadow/MycoMaps/blob/main/Logo/MycoMaps_Logo.png?raw=true" alt="MycoMaps Logo" width="300" />
+</div>
 
-🌿 Welcome to the MycoMaps project! This repository contains datasets, scripts, and resources for analyzing Fungi and Protozoa species using R and GIS tools. This project aims to provide a comprehensive set of data and tools for ecological research, biodiversity analysis, and spatial studies. This is currently an independent project, and will be updated slowly as I am currently pursuing my Bachelor's degree. 
+# 🌿
+Welcome to the MycoMaps project! This repository contains datasets, scripts, and resources for analyzing Fungi and Protoctista species using R and GIS tools. This project aims to provide a comprehensive set of data and tools for ecological research, biodiversity analysis, and spatial studies. This is currently an independent project, and will be updated slowly as I am currently pursuing my Bachelor's degree. 
 
 ## Table of Contents
 
@@ -12,11 +16,24 @@
 
 ## About my Project
 
-This project was developed to facilitate the study and analysis of Fungi and Protozoa species through modern data science tools. As an Environmental Science student, I became fascinated with microbiologic organisms such as Fungi and Protozoa after I completed a Mycology course during my bachelor's degree. Combining my love for these organisms, and a passion for technology, this project was born!
+This project was developed to facilitate the study and analysis of Fungi and Protist species through modern data science tools. As an Environmental Science student, I became fascinated with microbiologic organisms such as Fungi and Protists after I completed a Mycology course during my bachelor's degree. Combining my love for these organisms, and a passion for technology, this project was born!
+
+### Why Protoctista?
+
+For many years, Mycologists classified Slime and Water molds as Mycological organisms, due to their appearance and similarities to fungi species. In the mid-20th century, thanks to advancements in technology, scientists began to recognize that these organisms contained traits from each of the other kingdoms, but didn't quite fit into one. This led to the reclassification of slime molds and water molds into the kingdom Protoctista (now often referred to as Protista). 
+
+<p align="center">
+  <a href="https://youtu.be/nPOQQp8CCls">
+    <img src="https://img.youtube.com/vi/nPOQQp8CCls/hqdefault.jpg" alt="Watch the video" />
+  </a>
+</p>
+
+
+
 
 ### Key Features (ongoing)
 
-- **Datasets**: Includes diverse datasets on Fungi and Protozoa species.
+- **Datasets**: Includes diverse datasets on Fungi and Protist species.
 - **R Scripts**: Pre-written R scripts for data cleaning, visualization, and statistical analysis. 
 - **GIS Tools**: Resources and guides for incorporating these datasets into GIS software for spatial analysis.
 - **Open-Source**: The repository is open to contributions and collaboration from the community.
@@ -30,8 +47,8 @@ The following datasets are/will be included in this repository:
    - **Format**: CSV, GeoJSON
    - **Source**: Collected from fieldwork and public databases.
 
-2. **Protozoa Species Dataset**:
-   - **Description**: Includes data on protozoa species, with a focus on species diversity and distribution.
+2. **Protist Species Dataset**:
+   - **Description**: Includes data on protist species, with a focus on species diversity and distribution.
    - **Format**: CSV, GeoJSON
    - **Source**: Field studies and verified databases.
 
@@ -49,6 +66,6 @@ I welcome any and all contributions to this project! I am a beginner in learning
 
 ## Acknowledgements
 
-- Special thanks to the mycology and protozoology communities for their data and insights.
+- Special thanks to the mycology and protistology communities for their data and insights.
 - This project was inspired by fieldwork and research conducted at [Pennsylvania Western University](https://sai.calu.edu/farm/) and inspired by other projects such as [SPUN](https://www.spun.earth/), [fungiMap](https://fungimap.org.au/), and [MyCoPortal](https://www.mycoportal.org/portal/index.php).
 
