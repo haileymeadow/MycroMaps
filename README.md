@@ -1,10 +1,7 @@
-# 🍄  MycoMaps 
-<div align="center">
-  <img src="https://github.com/haileymeadow/MycoMaps/blob/main/Knowledge%20Base/MycoMaps_Logo.png?raw=true" alt="MycoMaps Logo" width="300" />
-</div>
+# 🍄  MycroMaps 
 
 # 🌿
-Welcome to the MycoMaps project! This repository contains datasets, scripts, and resources for analyzing Fungi and Protoctista species using R and GIS tools. This project aims to provide a comprehensive set of data and tools for ecological research, biodiversity analysis, and spatial studies. This is currently an independent project, and will be updated slowly as I am currently pursuing my Bachelor's degree. 
+Welcome to the MycroMaps project! This repository contains datasets, scripts, and resources for analyzing Fungi and Protoctista species using R and GIS tools. This project aims to provide a comprehensive set of data and tools for ecological research, biodiversity analysis, and spatial studies. This is currently an independent project, and will be updated slowly as I am currently pursuing my Bachelor's degree. 
 
 ## Table of Contents
 
@@ -16,7 +13,7 @@ Welcome to the MycoMaps project! This repository contains datasets, scripts, and
 
 ## About my Project
 
-This project was developed to facilitate the study and analysis of Fungi and Protist species through modern data science tools. As an Environmental Science student, I became fascinated with microbiologic organisms such as Fungi and Protists after I completed a Mycology course during my bachelor's degree. Combining my love for these organisms, and a passion for technology, this project was born!
+This project was developed to study and analyze Fungi and Protist species through modern data science tools. As an Environmental Science student, I became fascinated with microbiologic (Mycro) organisms such as Fungi and Protists after I completed a Mycology course during my bachelor's degree. Combining my love for these organisms, and a passion for technology, this project was born!
 
 ### Why Protoctista?
 
