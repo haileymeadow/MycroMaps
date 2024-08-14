@@ -3,7 +3,7 @@
 # Plotting Fungi from Ohiopyle State Park observations
 # iNaturalist Data from 2020-2024 (August)
 
-# Hailey Wittkopp for MycoMaps project
+# Hailey Wittkopp for MycroMaps project
 # 08/13/2024
 
 

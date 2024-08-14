@@ -3,7 +3,7 @@
 # Plotting Fungi and Protozoa abundance by orders in Ohiopyle State Park
 # Data from July 1 2024 - August 1 2024, sourced from iNaturalist
 
-# Hailey Wittkopp for MycoMaps project
+# Hailey Wittkopp for MycroMaps project
 # 08/13/2024
 
 
