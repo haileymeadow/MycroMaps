@@ -1,5 +1,10 @@
 # 🍄  MycroMaps 
 
+<p align="center">
+  <img src="https://github.com/haileymeadow/MycroMaps/blob/main/Knowledge%20Base/MycroMaps.png?raw=true" alt="MycroMaps">
+</p>
+
+
 # 🌿
 Welcome to the MycroMaps project! This repository contains datasets, scripts, and resources for analyzing Fungi and Protoctista species using R and GIS tools. This project aims to provide a comprehensive set of data and tools for ecological research, biodiversity analysis, and spatial studies. This is currently an independent project, and will be updated slowly as I am currently pursuing my Bachelor's degree. 
 
