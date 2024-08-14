@@ -1,0 +1,606 @@
+latitude,longitude,positional_accuracy,scientific_name,common_name,iconic_taxon_name,taxon_id,taxon_kingdom_name,taxon_phylum_name,taxon_subphylum_name,taxon_class_name,taxon_subclass_name,taxon_order_name,taxon_family_name,taxon_genus_name
+39.8808333333,-79.4945,,Pleurotus ostreatus,Oyster Mushroom,Fungi,48494,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Pleurotaceae,Pleurotus
+39.8700666667,-79.4991616667,,Grifola frondosa,hen of the woods,Fungi,53714,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Grifolaceae,Grifola
+39.862865,-79.50284,9,Coprinus comatus,Shaggy Mane,Fungi,47392,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Coprinaceae,Coprinus
+39.870175,-79.4866116667,,Calostoma cinnabarinum,stalked puffball-in-aspic,Fungi,68153,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Calostoma
+39.8487383333,-79.47297,,Cladonia coniocraea,Common Powderhorn,Fungi,155093,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecanorales,Cladoniaceae,Cladonia
+39.8633713383,-79.4874572754,4065,Entoloma quadratum,salmon pinkgill,Fungi,362917,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Entolomataceae,Entoloma
+39.8623172262,-79.4833374023,4183,Entoloma murrayi,Yellow Unicorn Entoloma,Fungi,203674,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Entolomataceae,Entoloma
+39.8665335772,-79.4860839844,3596,Mycena leaiana,orange mycena,Fungi,128516,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Mycena
+39.8826958722,-79.4806410144,2065,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.924125,-79.4844133333,,Leucopholiota decorosa,Decorated Pholiota,Fungi,478703,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Squamanitaceae,Leucopholiota
+39.9241716667,-79.4844133333,,Coprinellus micaceus,mica cap,Fungi,56318,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Psathyrellaceae,Coprinellus
+39.9227033333,-79.4858633333,,Laccaria ochropurpurea,Purple-and-White Deceiver,Fungi,143308,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hydnangiaceae,Laccaria
+39.9046883333,-79.4883583333,,Cantharellus cinnabarinus,Red Chanterelle,Fungi,143393,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.897245,-79.4779283333,,Daedaleopsis confragosa,Thin-walled Maze Polypore,Fungi,124102,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Daedaleopsis
+39.8699760437,-79.498878479,,Clavariadelphus americanus,,Fungi,507148,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Phallomycetidae,Gomphales,Clavariadelphaceae,Clavariadelphus
+39.8499273,-79.5099772,188,Sarcoscypha austriaca,Scarlet Elfcup,Fungi,126913,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Sarcoscyphaceae,Sarcoscypha
+39.8499273,-79.5099772,188,Sarcoscypha austriaca,Scarlet Elfcup,Fungi,126913,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Sarcoscyphaceae,Sarcoscypha
+39.862975,-79.5027083333,30,Xanthocarpia feracissima,sidewalk firedot,Fungi,532533,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Teloschistales,Teloschistaceae,Xanthocarpia
+39.8653833333,-79.5016416667,5,Graphis scripta,Common Script Lichen,Fungi,117987,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Ostropomycetidae,Ostropales,Graphidaceae,Graphis
+39.8654466667,-79.5018383333,10,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8650682691,-79.5026601571,216,Biatora appalachensis,Appalachian Dotted Lichen,Fungi,462446,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecanorales,Ramalinaceae,Biatora
+39.8651,-79.501525,,Cladonia caespiticia,Stubby-stalked Cladonia,Fungi,217081,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecanorales,Cladoniaceae,Cladonia
+39.8651,-79.501525,,Flavoparmelia baltimorensis,rock greenshield lichen,Fungi,148365,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecanorales,Parmeliaceae,Flavoparmelia
+39.8650430609,-79.5018446445,82,Lepraria cryophila,,Fungi,463340,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecanorales,Stereocaulaceae,Lepraria
+39.86499,-79.5015233333,,Phlyctis petraea,Rock Whitewash,Fungi,504616,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Ostropomycetidae,Ostropales,Phlyctidaceae,Phlyctis
+39.86499,-79.5015233333,,Porpidia albocaerulescens,Smokey-eyed Boulder Lichen,Fungi,125773,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecideales,Lecideaceae,Porpidia
+39.871815,-79.4986133333,,Aleurodiscus wakefieldiae,Pink Disco,Fungi,208023,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Stereaceae,Aleurodiscus
+39.8711816667,-79.499195,,Apioperdon pyriforme,Pear-shaped Puffball,Fungi,972793,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Apioperdon
+39.8711816667,-79.499195,,Micarea peliocarpa,Shadow Dot Lichen,Fungi,225038,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecanorales,Pilocarpaceae,Micarea
+39.8653866667,-79.50173,10,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8611487531,-79.4782639154,61,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8611158113,-79.478092254,15,Cyathus striatus,fluted bird's nest fungus,Fungi,120242,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Nidulariaceae,Cyathus
+39.85271114,-79.50116074,10,Amanita bisporigera,Eastern North American Destroying Angel,Fungi,125390,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8519166667,-79.47535,12,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8705845629,-79.4987379153,185,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8863,-79.494055,5,Hygrocybe cantharellus,Goblet Waxcap,Fungi,63282,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hygrophoraceae,Hygrocybe
+39.8863116667,-79.4937966667,10,Sarcoscypha occidentalis,stalked scarlet cup,Fungi,58705,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Sarcoscyphaceae,Sarcoscypha
+39.8863666667,-79.493675,10,Laccaria ochropurpurea,Purple-and-White Deceiver,Fungi,143308,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hydnangiaceae,Laccaria
+39.8865,-79.4937833333,30,Laccaria ochropurpurea,Purple-and-White Deceiver,Fungi,143308,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hydnangiaceae,Laccaria
+39.88632,-79.4939333333,295,Cantharellus minor,Small Chanterelle,Fungi,143312,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8495133333,-79.49077,478,Sebacina schweinitzii,jellied false coral fungus,Fungi,736008,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Sebacinales,Sebacinaceae,Sebacina
+39.8638633333,-79.5012133333,30,Cantharellus cinnabarinus,Red Chanterelle,Fungi,143393,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8637753333,-79.5020968333,5,Tapinella atrotomentosa,Velvet-footed Tap,Fungi,154450,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Tapinellaceae,Tapinella
+39.859245,-79.4970633333,3000,Porpidia albocaerulescens,Smokey-eyed Boulder Lichen,Fungi,125773,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecideales,Lecideaceae,Porpidia
+39.8585966667,-79.4957666667,616,Dermatocarpon luridum,brook stippleback lichen,Fungi,182476,Fungi,Ascomycota,Pezizomycotina,Eurotiomycetes,Chaetothyriomycetidae,Verrucariales,Verrucariaceae,Dermatocarpon
+39.8583333333,-79.4958883333,48,Exidia crenata,American Amber Jelly Fungus,Fungi,879877,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Auriculariales,Auriculariaceae,Exidia
+39.8615133333,-79.4814616667,30,Chlorociboria aeruginascens,Green Wood Cup,Fungi,122329,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Chlorociboriaceae,Chlorociboria
+39.8559916667,-79.488625,5,Calostoma lutescens,Collared Calostoma,Fungi,372664,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Calostoma
+39.8614064876,-79.4562671001,1075,Amanita parcivolvata,False Caesar's Mushroom,Fungi,500030,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8679083333,-79.49955,118,Calostoma lutescens,Collared Calostoma,Fungi,372664,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Calostoma
+39.9040192393,-79.489299953,88,Mycena leaiana,orange mycena,Fungi,128516,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Mycena
+39.9032533022,-79.480012469,88,Cerioporus squamosus,Dryad's Saddle,Fungi,940028,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Cerioporus
+39.8687283333,-79.4997466667,10,Ganoderma tsugae,hemlock varnish shelf,Fungi,63274,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Ganoderma
+39.8746101415,-79.4817889687,2754,Cerioporus leptocephalus,Blackfoot Polypore,Fungi,928232,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Cerioporus
+39.8666103774,-79.4825586839,3696,Sarcoscypha occidentalis,stalked scarlet cup,Fungi,58705,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Sarcoscyphaceae,Sarcoscypha
+39.8764270848,-79.4884374411,2353,Resupinatus applicatus,Smoked Oysterling,Fungi,203714,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,,Resupinatus
+39.89585,-79.4958733333,,Schizophyllum commune,splitgill mushroom,Fungi,54573,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Schizophyllaceae,Schizophyllum
+39.8958216667,-79.4958566667,,Evernia mesomorpha,Boreal Oakmoss,Fungi,182670,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecanorales,Parmeliaceae,Evernia
+39.87557,-79.4926133333,10,Megacollybia rodmanii,Eastern American Platterful Mushroom,Fungi,488500,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Porotheleaceae,Megacollybia
+39.8815383333,-79.4836366667,24,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8927157817,-79.4996562973,44,Amanita flavoconia,Yellow Patches,Fungi,125389,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8784790039,-79.4891967773,,Clavulinopsis fusiformis,Golden Spindles,Fungi,55272,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Clavulinopsis
+39.868155,-79.5000833333,5,Amanita rubescens,blusher,Fungi,67661,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8515954379,-79.4886559017,661,Tylopilus rubrobrunneus,reddish brown bitter bolete,Fungi,352692,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Tylopilus
+39.8489015555,-79.490424942,584,Amanita rubescens,blusher,Fungi,67661,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8488686949,-79.4922843246,581,Leotia lubrica,Ochre Jelly Club,Fungi,58669,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Leotiales,Leotiaceae,Leotia
+39.8486151208,-79.4921671138,1409,Entoloma quadratum,salmon pinkgill,Fungi,362917,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Entolomataceae,Entoloma
+39.8488489376,-79.4947675496,159,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8560966667,-79.4925166667,200,Russula parvovirescens,Blue-green Cracking Russula,Fungi,126178,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Russula
+39.8698482059,-79.5061316954,21,Clavulinopsis fusiformis,Golden Spindles,Fungi,55272,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Clavulinopsis
+39.879144018,-79.4975841364,140,Cantharellus lateritius,Smooth Chanterelle,Fungi,143270,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8627510977,-79.499774287,482,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8610096004,-79.4680970907,526,Lactarius peckii,Peck's milky cap,Fungi,367745,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Lactarius
+39.8634090973,-79.5012215339,50,Scleroderma citrinum,common earthball,Fungi,55927,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Scleroderma
+39.8640801106,-79.5012429916,30,Cantharellus cinnabarinus,Red Chanterelle,Fungi,143393,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.873010777,-79.4981555176,10,Scleroderma citrinum,common earthball,Fungi,55927,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Scleroderma
+39.8729337473,-79.4981980976,5,Retiboletus ornatipes,Ornate-stalked bolete,Fungi,348815,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Retiboletus
+39.8691569036,-79.4999327325,30,Retiboletus ornatipes,Ornate-stalked bolete,Fungi,348815,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Retiboletus
+39.8691331828,-79.4997629151,5,Lactarius croceus,,Fungi,418608,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Lactarius
+39.8957283333,-79.4926833333,32,Ramariopsis kunzei,white coral fungus,Fungi,55274,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Ramariopsis
+39.8736877441,-79.4970550537,,Cantharellus lateritius,Smooth Chanterelle,Fungi,143270,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8727684021,-79.4983139038,,Scleroderma citrinum,common earthball,Fungi,55927,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Scleroderma
+39.8649597168,-79.4997558594,,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8689242031,-79.5001783222,132,Cantharellus cinnabarinus,Red Chanterelle,Fungi,143393,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8765335083,-79.4928665161,,Aureoboletus betula,shaggy-stalked bolete,Fungi,1125679,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Aureoboletus
+39.8797584346,-79.4937887491,310,Radulomyces copelandii,Asian Beauty,Fungi,1113584,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Radulomycetaceae,Radulomyces
+39.8797584346,-79.4937887491,310,Cantharellus lateritius,Smooth Chanterelle,Fungi,143270,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8688302781,-79.5019616559,3131,Clavulinopsis fusiformis,Golden Spindles,Fungi,55272,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Clavulinopsis
+39.9007929722,-79.4930498489,10,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8733238693,-79.4971487671,165,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8654838585,-79.5015891719,20,Rhizoplaca subdiscrepans,Scattered Rock-posy Lichen,Fungi,230002,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecanorales,Lecanoraceae,Rhizoplaca
+39.8630403,-79.5028498,1665,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8916740417,-79.5016784668,,Pholiota squarrosoides,Sharp-scaly Pholiota,Fungi,157728,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Strophariaceae,Pholiota
+39.84695,-79.47422,224,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.84424667,-79.47849167,2514,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.86781667,-79.486245,5,Fulvifomes robiniae,Cracked Cap Polypore,Fungi,1145488,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Fulvifomes
+39.860745,-79.48069667,10,Trametes gibbosa,Lumpy Bracket,Fungi,410641,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.85723833,-79.47692833,5,Fomitopsis betulina,birch polypore,Fungi,775410,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Fomitopsidaceae,Fomitopsis
+39.84839167,-79.473205,30,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.9121666667,-79.479325,,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8831666667,-79.4955305556,,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8928384,-79.4793528,3000,Phylloscypha phyllogena,Common Brown Cup,Fungi,1110795,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Pezizaceae,Phylloscypha
+39.8636035575,-79.5015898348,30,Porpidia albocaerulescens,Smokey-eyed Boulder Lichen,Fungi,125773,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecideales,Lecideaceae,Porpidia
+39.8629697004,-79.5012208638,395,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.86367833,-79.50161667,96,Cordyceps militaris,Scarlet Caterpillar Club,Fungi,119118,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Cordycipitaceae,Cordyceps
+39.86331667,-79.50142,128,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.8639,-79.50161667,128,Hygrocybe cantharellus,Goblet Waxcap,Fungi,63282,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hygrophoraceae,Hygrocybe
+39.8596466712,-79.4812362077,3850,Helvella,Elfin Saddles,Fungi,49206,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Helvellaceae,Helvella
+39.8600909013,-79.4825389114,5252,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8883280345,-79.4874488936,50,Bondarzewia berkeleyi,Berkeley's Polypore,Fungi,84224,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Bondarzewiaceae,Bondarzewia
+39.8655916667,-79.500305,,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8699253984,-79.4986906183,10,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.87214959,-79.49852442,9,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.86136384,-79.50712407,7,Pleurotus pulmonarius,pale oyster,Fungi,136399,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Pleurotaceae,Pleurotus
+39.852275,-79.48677833,10,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.869981,-79.4993829722,,Amanita ravenelii,Ravenel's Lepidella,Fungi,350056,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8558364444,-79.4923202222,,Baorangia bicolor,two-colored bolete,Fungi,636546,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Baorangia
+39.8486585746,-79.4918043491,38,Calostoma cinnabarinum,stalked puffball-in-aspic,Fungi,68153,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Calostoma
+39.8486658107,-79.491802561,16,Cortinarius sanguineus,bloodred webcap,Fungi,55030,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8486806042,-79.4917840597,24,Cantharellus cinnabarinus,Red Chanterelle,Fungi,143393,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8708058139,-79.4863212905,327,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8669269821,-79.5004585293,10,Lycoperdon perlatum,common puffball,Fungi,48443,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Lycoperdon
+39.8588150445,-79.4809025911,602,Mycena leaiana,orange mycena,Fungi,128516,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Mycena
+39.8580489082,-79.4804779769,565,Lycoperdon perlatum,common puffball,Fungi,48443,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Lycoperdon
+39.86555,-79.50301333,15,Picipes badius,Bay Polypore,Fungi,510852,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Picipes
+39.8494907516,-79.4816413658,2854,Picipes badius,Bay Polypore,Fungi,510852,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Picipes
+39.8297443996,-79.444701069,4,Trametes cinnabarina,Northern Cinnabar Polypore,Fungi,974663,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8629223568,-79.5020835383,1040,Galerina marginata,Funeral Bell,Fungi,154735,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hymenogastraceae,Galerina
+39.863673844,-79.5025090474,2814,Arrhenia epichysium,brown goblet,Fungi,67343,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hygrophoraceae,Arrhenia
+39.9113222222,-79.4921611111,,Porpidia albocaerulescens,Smokey-eyed Boulder Lichen,Fungi,125773,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecideales,Lecideaceae,Porpidia
+39.8656916667,-79.5031283333,4,Picipes badius,Bay Polypore,Fungi,510852,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Picipes
+39.86570333,-79.50326667,10,Picipes badius,Bay Polypore,Fungi,510852,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Picipes
+39.8592889978,-79.4805504044,114,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.90349,-79.48861833,,Galerina marginata,Funeral Bell,Fungi,154735,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hymenogastraceae,Galerina
+39.8558323611,-79.4907379444,,Grifola frondosa,hen of the woods,Fungi,53714,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Grifolaceae,Grifola
+39.8916365812,-79.5013784432,5,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8642416667,-79.4847083333,,Allodus podophylli,Mayapple Rust,Fungi,417511,Fungi,Basidiomycota,Pucciniomycotina,Pucciniomycetes,,Pucciniales,,Allodus
+39.8865918889,-79.5387892222,,Exidia crenata,American Amber Jelly Fungus,Fungi,879877,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Auriculariales,Auriculariaceae,Exidia
+39.9024156108,-79.5165598938,9,Mitrula elegans,swamp beacon,Fungi,320702,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Mitrulaceae,Mitrula
+39.8638904,-79.5020829997,,Lepraria finkii,Fluffy Dust Lichen,Fungi,463344,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecanorales,Stereocaulaceae,Lepraria
+39.8427345116,-79.4738657251,9,Megacollybia rodmanii,Eastern American Platterful Mushroom,Fungi,488500,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Porotheleaceae,Megacollybia
+39.8663555556,-79.5031944444,,Stropharia rugosoannulata lutea,,Fungi,551074,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Strophariaceae,Stropharia
+39.8564166667,-79.4927722222,,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.8987277778,-79.5179277778,,Infundibulicybe gibba,Common Funnel,Fungi,921916,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalinaceae,Infundibulicybe
+39.873905,-79.496955,100,Xeromphalina campanella,Pinewood Gingertail,Fungi,56251,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Xeromphalinaceae,Xeromphalina
+39.8633616667,-79.499825,4,Xylaria hypoxylon,Candlesnuff Fungus,Fungi,55267,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Xylariomycetidae,Xylariales,Xylariaceae,Xylaria
+39.8635166667,-79.499625,6,Erynia sepulchralis,,Fungi,550589,Fungi,Zygomycota,Entomophthoromycotina,Entomophthoromycetes,,Entomophthorales,Entomophthoraceae,Erynia
+39.8553966667,-79.48977,947,Cantharellus minor,Small Chanterelle,Fungi,143312,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8555216667,-79.4894033333,21,Amanita flavoconia,Yellow Patches,Fungi,125389,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.855995,-79.4900366667,56,Amanita flavoconia,Yellow Patches,Fungi,125389,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8723833333,-79.4895166667,1209,Amanita flavoconia,Yellow Patches,Fungi,125389,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8799366667,-79.4692916667,200,Clavaria fragilis,Fairy Fingers,Fungi,53885,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Clavaria
+39.8691228865,-79.4630470276,3812,Trametes gibbosa,Lumpy Bracket,Fungi,410641,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8426333333,-79.4497111111,,Entoloma violaceum,violet pinkgill,Fungi,500012,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Entolomataceae,Entoloma
+39.9059075542,-79.4905937836,1668,Retiboletus ornatipes,Ornate-stalked bolete,Fungi,348815,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Retiboletus
+39.8601333333,-79.47988,4,Amanita flavoconia,Yellow Patches,Fungi,125389,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.9059420177,-79.4905937836,1668,Lactarius rufus,Rufous Milkcap,Fungi,118223,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Lactarius
+39.8720918422,-79.4998187369,1008,Meripilus sumstinei,Black-staining Polypore,Fungi,125738,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Meripilaceae,Meripilus
+39.89207979,-79.50095827,9,Ramaria stricta,Upright Coral Fungus,Fungi,54228,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Phallomycetidae,Gomphales,Gomphaceae,Ramaria
+39.9002888889,-79.4933027778,,Xeromphalina cauticinalis,pinelitter gingertail,Fungi,118219,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Xeromphalinaceae,Xeromphalina
+39.8492088318,-79.4897460938,,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.85272075,-79.4408295833,,Sparassis spathulata,Eastern cauliflower mushroom,Fungi,334319,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Sparassidaceae,Sparassis
+39.8649514698,-79.4995957928,15,Panellus stipticus,Luminescent Panellus,Fungi,68309,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Panellus
+39.8535842896,-79.4964904785,314,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8561533333,-79.4926916667,4,Cantharellus cinnabarinus,Red Chanterelle,Fungi,143393,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8556416667,-79.4895333333,4,Pleurotus pulmonarius,pale oyster,Fungi,136399,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Pleurotaceae,Pleurotus
+39.86680333,-79.48131667,29,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.86310833,-79.45588,194,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.858455,-79.47548667,878,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.86706667,-79.48165833,83,Strobilomyces strobilaceus,Old-man-of-the-woods,Fungi,352462,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Strobilomyces
+39.87343823,-79.49723512,9,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8862216667,-79.4977633333,9,Oudemansiella furfuracea,Beech Rooter,Fungi,785472,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Physalacriaceae,Oudemansiella
+39.8814466667,-79.4973666667,4,Oudemansiella radicata,rooting shank,Fungi,383374,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Physalacriaceae,Oudemansiella
+39.8805966667,-79.4968866667,5,Retiboletus ornatipes,Ornate-stalked bolete,Fungi,348815,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Retiboletus
+39.8675953445,-79.499974139,236,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.85012,-79.48915,30,Phallus duplicatus,Skirted Stinkhorn,Fungi,143415,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Phallomycetidae,Phallales,Phallaceae,Phallus
+39.8686447214,-79.5007149984,700,Amanita parcivolvata,False Caesar's Mushroom,Fungi,500030,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8915911214,-79.5023747161,187,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8563645916,-79.4939616786,1953,Entoloma abortivum,Aborted entoloma,Fungi,70222,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Entolomataceae,Entoloma
+39.8672637939,-79.5003356934,3,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8704333333,-79.49903,21,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8520666667,-79.4742283333,4,Lycoperdon perlatum,common puffball,Fungi,48443,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Lycoperdon
+39.8566383333,-79.4765333333,4,Fomitopsis betulina,birch polypore,Fungi,775410,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Fomitopsidaceae,Fomitopsis
+39.858575,-79.493805,4,Chlorociboria aeruginascens,Green Wood Cup,Fungi,122329,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Chlorociboriaceae,Chlorociboria
+39.858355,-79.4939883333,4,Panellus stipticus,Luminescent Panellus,Fungi,68309,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Panellus
+39.8557966667,-79.487975,4,Chlorociboria aeruginascens,Green Wood Cup,Fungi,122329,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Chlorociboriaceae,Chlorociboria
+39.8531133333,-79.48642,4,Radulomyces copelandii,Asian Beauty,Fungi,1113584,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Radulomycetaceae,Radulomyces
+39.84758,-79.48697,4,Neofavolus alveolaris,hexagonal-pored polypore,Fungi,496176,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Neofavolus
+39.84152,-79.47567,4,Tectella patellaris,veiled panus,Fungi,978480,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Sarcomyxaceae,Tectella
+39.8665638889,-79.5005305556,,Grifola frondosa,hen of the woods,Fungi,53714,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Grifolaceae,Grifola
+39.8665638889,-79.5005305556,,Panellus stipticus,Luminescent Panellus,Fungi,68309,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Panellus
+39.8261701311,-79.4434782617,80,Sarcoscypha occidentalis,stalked scarlet cup,Fungi,58705,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Sarcoscyphaceae,Sarcoscypha
+39.8729713,-79.4979811,,Imleria pallida,pallid bolete,Fungi,1040179,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Imleria
+39.8440669032,-79.4733130166,18,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8937777778,-79.4978444444,,Ischnoderma resinosum,Resinous Polypore,Fungi,130919,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Ischnodermataceae,Ischnoderma
+39.8638198972,-79.5020461455,130,Panellus stipticus,Luminescent Panellus,Fungi,68309,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Panellus
+39.8650168119,-79.5020535216,154,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.864961483,-79.5020367578,154,Trametes gibbosa,Lumpy Bracket,Fungi,410641,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8626229616,-79.5043903962,29,Sarcomyxa serotina,Late Oyster,Fungi,63585,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Sarcomyxaceae,Sarcomyxa
+39.8630455329,-79.5023039728,31,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.86383,-79.5010249722,,Calostoma cinnabarinum,stalked puffball-in-aspic,Fungi,68153,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Calostoma
+39.8619083333,-79.4998783333,2259,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8677322459,-79.5022905618,94,Puccinia mariae-wilsoniae,spring beauty rust,Fungi,243710,Fungi,Basidiomycota,Pucciniomycotina,Pucciniomycetes,,Pucciniales,Pucciniaceae,Puccinia
+39.8241166667,-79.4337216667,50,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.887455,-79.5135716667,4,Flavoparmelia caperata,common greenshield lichen,Fungi,117943,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecanorales,Parmeliaceae,Flavoparmelia
+39.8725846997,-79.4979452,,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8743169722,-79.496744,,Mycena leaiana,orange mycena,Fungi,128516,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Mycena
+39.8701713,-79.4991730997,,Porpidia albocaerulescens,Smokey-eyed Boulder Lichen,Fungi,125773,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecideales,Lecideaceae,Porpidia
+39.8743929722,-79.496611,,Mitrula elegans,swamp beacon,Fungi,320702,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Mitrulaceae,Mitrula
+39.8742,-79.4966666667,3,Mycena leaiana,orange mycena,Fungi,128516,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Mycena
+39.8566633333,-79.497025,8,Morchella americana,white morel,Fungi,462132,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Morchellaceae,Morchella
+39.856605,-79.492775,24,Tulasnella aurantiaca,,Fungi,1195407,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Tulasnellaceae,Tulasnella
+39.8451,-79.4738616667,14,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8451416667,-79.4733366667,7,Trichaptum biforme,violet-toothed polypore,Fungi,125705,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Trichaptum
+39.8053444444,-79.4394777778,,Cyptotrama chrysopepla,golden coincap,Fungi,379777,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Physalacriaceae,Cyptotrama
+39.8583489771,-79.5118747652,192,Fomitopsis betulina,birch polypore,Fungi,775410,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Fomitopsidaceae,Fomitopsis
+39.8583489771,-79.5118747652,191,Fomitopsis betulina,birch polypore,Fungi,775410,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Fomitopsidaceae,Fomitopsis
+39.8801314993,-79.4898980856,2807,Meripilus sumstinei,Black-staining Polypore,Fungi,125738,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Meripilaceae,Meripilus
+39.87198205,-79.4985174,11,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.9050293491,-79.4845694727,3365,Sebacina incrustans,enveloping crust,Fungi,352364,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Sebacinales,Sebacinaceae,Sebacina
+39.8449366667,-79.4735033333,13,Strobilomyces strobilaceus,Old-man-of-the-woods,Fungi,352462,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Strobilomyces
+39.8805216792,-79.4693432508,35,Amanita parcivolvata,False Caesar's Mushroom,Fungi,500030,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.874372,-79.4964599722,,Trichoderma alutaceum,,Fungi,891983,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Hypocreaceae,Trichoderma
+39.8744239722,-79.4964319722,,Baorangia bicolor,two-colored bolete,Fungi,636546,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Baorangia
+39.9016,-79.5215083333,,Calostoma cinnabarinum,stalked puffball-in-aspic,Fungi,68153,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Calostoma
+39.8991305556,-79.5295333333,,Strobilomyces strobilaceus,Old-man-of-the-woods,Fungi,352462,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Strobilomyces
+39.8980216667,-79.5026783333,10,Strobilomyces strobilaceus,Old-man-of-the-woods,Fungi,352462,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Strobilomyces
+39.8935189722,-79.481886,,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.893591,-79.482579,,Sarcoscypha occidentalis,stalked scarlet cup,Fungi,58705,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Sarcoscyphaceae,Sarcoscypha
+39.893284,-79.48202,,Leotia viscosa,Chicken Lips,Fungi,348808,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Leotiales,Leotiaceae,Leotia
+39.862487,-79.4882554997,,Sebacina incrustans,enveloping crust,Fungi,352364,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Sebacinales,Sebacinaceae,Sebacina
+39.84969,-79.476928,,Beauveria bassiana,Icing sugar fungus,Fungi,862160,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Cordycipitaceae,Beauveria
+39.853318,-79.4411114444,,Lactarius peckii,Peck's milky cap,Fungi,367745,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Lactarius
+39.8697275,-79.4991119997,,Retiboletus ornatipes,Ornate-stalked bolete,Fungi,348815,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Retiboletus
+39.8734703,-79.4972173,,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8810116667,-79.4961383333,8,Boletus separans,lilac bolete,Fungi,350217,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Boletus
+39.87997,-79.4957283333,11,Baorangia bicolor,two-colored bolete,Fungi,636546,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Baorangia
+39.8795283333,-79.4954083333,25,Sparassis spathulata,Eastern cauliflower mushroom,Fungi,334319,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Sparassidaceae,Sparassis
+39.879475,-79.4954533333,8,Hygrocybe cuspidata,Candy Apple Waxy Cap,Fungi,481923,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hygrophoraceae,Hygrocybe
+39.8791,-79.4945133333,8,Retiboletus ornatipes,Ornate-stalked bolete,Fungi,348815,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Retiboletus
+39.865958266,-79.4845920123,2271,Clavulinopsis fusiformis,Golden Spindles,Fungi,55272,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Clavulinopsis
+39.88578,-79.4958583333,31,Russula crustosa,Green Quilt Russula,Fungi,118495,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Russula
+39.89207,-79.5009616667,4,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8827133085,-79.4940405438,30,Hygrocybe cuspidata,Candy Apple Waxy Cap,Fungi,481923,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hygrophoraceae,Hygrocybe
+39.8616133333,-79.5082033333,5,Retiboletus ornatipes,Ornate-stalked bolete,Fungi,348815,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Retiboletus
+39.8588966667,-79.5119633333,5,Russula grata,Almond-scented Russula,Fungi,118191,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Russula
+39.870557443,-79.4847233398,151,Strobilomyces strobilaceus,Old-man-of-the-woods,Fungi,352462,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Strobilomyces
+39.8639011926,-79.5010476065,266,Calostoma cinnabarinum,stalked puffball-in-aspic,Fungi,68153,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Calostoma
+39.8638994037,-79.4807085213,2227,Retiboletus ornatipes,Ornate-stalked bolete,Fungi,348815,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Retiboletus
+39.8708902393,-79.4980587904,10,Lactarius peckii,Peck's milky cap,Fungi,367745,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Lactarius
+39.9184777818,-79.4997411222,10,Entoloma murrayi,Yellow Unicorn Entoloma,Fungi,203674,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Entolomataceae,Entoloma
+39.865175,-79.5003888889,,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8727666667,-79.4980916667,,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.871495,-79.5058133333,,Coprinellus disseminatus,Trooping Crumble Cap,Fungi,56314,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Psathyrellaceae,Coprinellus
+39.8730766667,-79.5058133333,,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8733183333,-79.5056766667,,Camarops petersii,Dog's nose fungus,Fungi,211027,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Sordariomycetidae,Boliniales,Boliniaceae,Camarops
+39.8759266667,-79.506805,,Irpex lacteus,Milk-white Toothed Polypore,Fungi,130910,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Irpicaceae,Irpex
+39.8761133333,-79.505195,,Lycoperdon perlatum,common puffball,Fungi,48443,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Lycoperdon
+39.8741716667,-79.50505,,Laccaria ochropurpurea,Purple-and-White Deceiver,Fungi,143308,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hydnangiaceae,Laccaria
+39.8919416667,-79.5010972222,4,Chlorociboria aeruginascens,Green Wood Cup,Fungi,122329,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Chlorociboriaceae,Chlorociboria
+39.8933111111,-79.4978861111,4,Austroboletus gracilis,Graceful Bolete,Fungi,350157,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Austroboletus
+39.8933805556,-79.4979694444,5,Amanita bisporigera,Eastern North American Destroying Angel,Fungi,125390,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8936944444,-79.4978555556,4,Clavariadelphus pistillaris,common club coral fungus,Fungi,55156,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Phallomycetidae,Gomphales,Clavariadelphaceae,Clavariadelphus
+39.8952638889,-79.4978194444,4,Pluteus chrysophlebius,Yellow Deer Mushroom,Fungi,351889,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Pluteaceae,Pluteus
+39.8952444444,-79.4979305556,4,Russula ochroleucoides,,Fungi,338753,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Russula
+39.8985472222,-79.4955833333,58,Hydnum umbilicatum,depressed hedgehog,Fungi,48421,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Hydnum
+39.8995805556,-79.4932111111,4,Gloioxanthomyces nitidus,shining waxcap,Fungi,606947,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hygrophoraceae,Gloioxanthomyces
+39.9000694444,-79.4934611111,75,Lactarius peckii,Peck's milky cap,Fungi,367745,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Lactarius
+39.9001861111,-79.4928138889,41,Hericium coralloides,Coral tooth fungus,Fungi,49162,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Hericiaceae,Hericium
+39.9003861111,-79.4925861111,18,Retiboletus ornatipes,Ornate-stalked bolete,Fungi,348815,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Retiboletus
+39.9006194444,-79.4936138889,20,Xanthoconium affine,spotted bolete,Fungi,415611,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Xanthoconium
+39.9006388889,-79.4932388889,20,Strobilomyces strobilaceus,Old-man-of-the-woods,Fungi,352462,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Strobilomyces
+39.9003805556,-79.4928583333,4,Laccaria ochropurpurea,Purple-and-White Deceiver,Fungi,143308,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hydnangiaceae,Laccaria
+39.9013138889,-79.4923027778,8,Typhrasa gossypina,wrinkled psathyrella,Fungi,1111865,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Psathyrellaceae,Typhrasa
+39.9028944444,-79.4900138889,29,Cordyceps militaris,Scarlet Caterpillar Club,Fungi,119118,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Cordycipitaceae,Cordyceps
+39.902675,-79.4899527778,9,Clavaria fragilis,Fairy Fingers,Fungi,53885,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Clavaria
+39.8993972222,-79.49385,19,Hypomyces chrysospermus,bolete mould,Fungi,152947,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Hypocreaceae,Hypomyces
+39.8984138889,-79.4936888889,2783,Baorangia bicolor,two-colored bolete,Fungi,636546,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Baorangia
+39.8976555556,-79.4943472222,4,Cortinarius distans,,Fungi,467654,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8965527778,-79.4958555556,5,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8965444444,-79.4958361111,1606,Clavaria zollingeri,violet coral fungus,Fungi,126160,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Clavaria
+39.8931583333,-79.4981305556,4,Clavulinopsis aurantiocinnabarina,,Fungi,362915,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Clavulinopsis
+39.8578955532,-79.4804166509,3811,Climacodon septentrionalis,Northern Tooth,Fungi,350366,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Meruliaceae,Climacodon
+39.8591518638,-79.4806252656,1700,Entoloma abortivum,Aborted entoloma,Fungi,70222,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Entolomataceae,Entoloma
+39.8631303713,-79.5025885508,30,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.8884916,-79.4874376,2900,Hericium coralloides,Coral tooth fungus,Fungi,49162,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Hericiaceae,Hericium
+39.843175,-79.4971166667,30,Strobilurus conigenoides,magnolia-cone mushroom,Fungi,418310,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Physalacriaceae,Strobilurus
+39.84927,-79.4894483333,7,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8504366667,-79.4884016667,8,Fomitopsis betulina,birch polypore,Fungi,775410,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Fomitopsidaceae,Fomitopsis
+39.89148,-79.5051633333,9,Lentinellus ursinus,bear lentinus,Fungi,118231,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Lentinellus
+39.8911666667,-79.5041683333,8,Fomitopsis betulina,birch polypore,Fungi,775410,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Fomitopsidaceae,Fomitopsis
+39.8984083333,-79.49403,8,Picipes badius,Bay Polypore,Fungi,510852,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Picipes
+39.8732333333,-79.4963383333,21,Calycina citrina,Yellow Fairy Cups,Fungi,955949,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Pezizellaceae,Calycina
+39.8737613584,-79.496223277,65,Trichaptum biforme,violet-toothed polypore,Fungi,125705,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Trichaptum
+39.8736064197,-79.4972006972,13,Calycina citrina,Yellow Fairy Cups,Fungi,955949,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Pezizellaceae,Calycina
+39.8737415058,-79.4970480837,56,Mycena inclinata,clustered bonnet,Fungi,63453,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Mycena
+39.8735,-79.49717,12,Scutellinia setosa,,Fungi,130856,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Pyronemataceae,Scutellinia
+39.873195,-79.4970466667,5,Calycina citrina,Yellow Fairy Cups,Fungi,955949,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Pezizellaceae,Calycina
+39.8715633333,-79.4989783333,5,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.868405,-79.5026083333,3,Helicogloea compressa,,Fungi,978546,Fungi,Basidiomycota,Pucciniomycotina,Atractiellomycetes,,Atractiellales,Phleogenaceae,Helicogloea
+39.8695716667,-79.4991383333,14,Russula,brittlegills,Fungi,48339,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Russula
+39.8912940042,-79.5040675253,168,Galerina marginata,Funeral Bell,Fungi,154735,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hymenogastraceae,Galerina
+39.8589550771,-79.4961107522,177,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8593941424,-79.4944367185,177,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8587546049,-79.4808999691,968,Calostoma cinnabarinum,stalked puffball-in-aspic,Fungi,68153,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Calostoma
+39.8713819722,-79.4990559722,,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.866759,-79.500511,,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8732789722,-79.4961239722,,Helvella lacunosa,Elfin Saddle,Fungi,475619,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Helvellaceae,Helvella
+39.8733550368,-79.5040273365,9,Clavaria fragilis,Fairy Fingers,Fungi,53885,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Clavaria
+39.8994333333,-79.49363,80,Tolypocladium capitatum,Drumstick Truffleclub,Fungi,518873,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Ophiocordycipitaceae,Tolypocladium
+39.8921,-79.5059966667,111,Cyathus striatus,fluted bird's nest fungus,Fungi,120242,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Nidulariaceae,Cyathus
+39.8494782009,-79.4948061928,396,Xylobolus frustulatus,ceramic parchment,Fungi,130947,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Stereaceae,Xylobolus
+39.8500854088,-79.4954023138,396,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.842125,-79.4747033333,15,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8531356056,-79.4881059843,612,Amanita muscaria guessowii,American Yellow Fly Agaric,Fungi,321524,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8508011995,-79.4904863077,731,Amanita bisporigera,Eastern North American Destroying Angel,Fungi,125390,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8571288745,-79.4772109376,442,Jackrogersella multiformis,Birch Woodwart,Fungi,895016,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Xylariomycetidae,Xylariales,Hypoxylaceae,Jackrogersella
+39.8588116667,-79.4785133333,4,Exidia nigricans,Warlock's Butter,Fungi,350760,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Auriculariales,Auriculariaceae,Exidia
+39.8579216667,-79.477775,4,Trichaptum biforme,violet-toothed polypore,Fungi,125705,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Trichaptum
+39.8527366667,-79.4741883333,4,Whalleya microplaca,,Fungi,631446,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Xylariomycetidae,Xylariales,Lopadostomataceae,Whalleya
+39.8451366667,-79.47632,4,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8454466667,-79.4763866667,4,Flavoparmelia caperata,common greenshield lichen,Fungi,117943,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecanorales,Parmeliaceae,Flavoparmelia
+39.8449616667,-79.4764633333,4,Lasallia papulosa,Common Toadskin Lichen,Fungi,125708,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Lasallia
+39.8450033333,-79.4764633333,4,Calostoma cinnabarinum,stalked puffball-in-aspic,Fungi,68153,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Calostoma
+39.86337,-79.48303,4,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8917992938,-79.5011583126,4,Trichaptum biforme,violet-toothed polypore,Fungi,125705,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Trichaptum
+39.8709666667,-79.5014333333,4,Exidia glandulosa,Black Witches' Butter,Fungi,55568,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Auriculariales,Auriculariaceae,Exidia
+39.86995,-79.5017916667,4,Apioperdon pyriforme,Pear-shaped Puffball,Fungi,972793,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Apioperdon
+39.8437,-79.473495,6,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8860688175,-79.4928229903,517,Morchella americana,white morel,Fungi,462132,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Morchellaceae,Morchella
+39.8852083333,-79.4944533333,11,Morchella americana,white morel,Fungi,462132,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Morchellaceae,Morchella
+39.8522133333,-79.4864366667,11,Mitrula elegans,swamp beacon,Fungi,320702,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Mitrulaceae,Mitrula
+39.8532967192,-79.4890850977,3561,Cerioporus squamosus,Dryad's Saddle,Fungi,940028,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Cerioporus
+39.8635020526,-79.4243549556,7,Scorias spongiosa,Honeydew Eater,Fungi,144013,Fungi,Ascomycota,Pezizomycotina,Dothideomycetes,Dothideomycetidae,Capnodiales,Capnodiaceae,Scorias
+39.8409473277,-79.4605132345,322,Mycena leaiana,orange mycena,Fungi,128516,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Mycena
+39.8928138889,-79.4930388889,,Hericium erinaceus,lion's-mane mushroom,Fungi,49158,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Hericiaceae,Hericium
+39.8796753284,-79.4816690683,729,Ganoderma tsugae,hemlock varnish shelf,Fungi,63274,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Ganoderma
+39.87373,-79.4953,34,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8996248997,-79.4933223,,Coprinellus micaceus,mica cap,Fungi,56318,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Psathyrellaceae,Coprinellus
+39.8719707997,-79.4986968997,,Amanita lavendula,Coker's Lavender Staining Amanita,Fungi,810894,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8704093997,-79.4989039997,,Apioperdon pyriforme,Pear-shaped Puffball,Fungi,972793,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Apioperdon
+39.8916033333,-79.490905,4305,Pseudoinonotus dryadeus,oak bracket,Fungi,787944,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Pseudoinonotus
+39.8765962012,-79.4944913421,106,Bondarzewia berkeleyi,Berkeley's Polypore,Fungi,84224,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Bondarzewiaceae,Bondarzewia
+39.870493376,-79.4847241044,634,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.8526916504,-79.4892959595,4,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.8493972222,-79.4908333333,,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8560472222,-79.4930666667,,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.8504833333,-79.4133666667,,Hericium coralloides,Coral tooth fungus,Fungi,49162,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Hericiaceae,Hericium
+39.835833,-79.477547,,Cortinarius alboviolaceus,Silvery-violet Cort,Fungi,58677,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8908081055,-79.4864120483,4,Helicogloea compressa,,Fungi,978546,Fungi,Basidiomycota,Pucciniomycotina,Atractiellomycetes,,Atractiellales,Phleogenaceae,Helicogloea
+39.8894348145,-79.4869232178,4,Bondarzewia berkeleyi,Berkeley's Polypore,Fungi,84224,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Bondarzewiaceae,Bondarzewia
+39.8383616667,-79.4829416667,4,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8638383538,-79.5010303728,144,Cantharellus cinnabarinus,Red Chanterelle,Fungi,143393,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8637961317,-79.5007602778,30,Schizophyllum commune,splitgill mushroom,Fungi,54573,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Schizophyllaceae,Schizophyllum
+39.8782202974,-79.4949061052,5,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.8777166667,-79.4946283333,4,Delicatula integrella,,Fungi,498016,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Porotheleaceae,Delicatula
+39.8742194444,-79.4962444444,,Gerronema strombodes,golden-gilled gerronema,Fungi,204813,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Porotheleaceae,Gerronema
+39.8742194444,-79.4962444444,,Crepidotus applanatus,Flat Crep,Fungi,350514,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Crepidotaceae,Crepidotus
+39.8739027778,-79.4970972222,,Clavulinopsis fusiformis,Golden Spindles,Fungi,55272,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Clavulinopsis
+39.8703666667,-79.4992083333,,Megacollybia rodmanii,Eastern American Platterful Mushroom,Fungi,488500,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Porotheleaceae,Megacollybia
+39.8703666667,-79.4992083333,,Retiboletus ornatipes,Ornate-stalked bolete,Fungi,348815,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Retiboletus
+39.8687083333,-79.4999805556,,Lactifluus gerardii,,Fungi,351319,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Lactifluus
+39.8681861111,-79.5000916667,,Cantharellus phasmatis,Ghost chanterelle,Fungi,496875,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8678111111,-79.5000305556,,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8678111111,-79.5000305556,,Ramaria stricta,Upright Coral Fungus,Fungi,54228,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Phallomycetidae,Gomphales,Gomphaceae,Ramaria
+39.8659611111,-79.5005833333,,Fomitopsis spraguei,green cheese polypore,Fungi,1537055,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Fomitopsidaceae,Fomitopsis
+39.8662333333,-79.500775,,Amanita parcivolvata,False Caesar's Mushroom,Fungi,500030,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8641440997,-79.5011257,,Cantharellus minor,Small Chanterelle,Fungi,143312,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.8639725043,-79.5010936257,34,Acarospora fuscata,brown cobblestone lichen,Fungi,182542,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Acarosporomycetidae,Acarosporales,Acarosporaceae,Acarospora
+39.866305,-79.500695,7,Bulgaria inquinans,Poor Man's Licorice,Fungi,83419,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Phacidiales,Phacidiaceae,Bulgaria
+39.8558108047,-79.496991321,635,Exsudoporus frostii,Frost's Bolete,Fungi,501333,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Exsudoporus
+39.9170853803,-79.4913731329,10,Xeromphalina kauffmanii,Cross-veined Troop Mushroom,Fungi,63419,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Xeromphalinaceae,Xeromphalina
+39.9209799478,-79.4901804719,10,Chlorociboria aeruginascens,Green Wood Cup,Fungi,122329,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Chlorociboriaceae,Chlorociboria
+39.9338302612,-79.4885101318,65,Lactarius indigo,indigo milk cap,Fungi,120951,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Lactarius
+39.8695,-79.4989916667,4,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8664333333,-79.5007083333,4,Bulgaria inquinans,Poor Man's Licorice,Fungi,83419,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Phacidiales,Phacidiaceae,Bulgaria
+39.8667644541,-79.4809347304,105,Pleurotus levis,Lynx Paw Oyster,Fungi,1247035,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Pleurotaceae,Pleurotus
+39.871531666,-79.5048339665,131,Sebacina schweinitzii,jellied false coral fungus,Fungi,736008,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Sebacinales,Sebacinaceae,Sebacina
+39.870591416,-79.5052527264,206,Sarcoscypha occidentalis,stalked scarlet cup,Fungi,58705,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Sarcoscyphaceae,Sarcoscypha
+39.8711045151,-79.5053580031,106,Leotia viscosa,Chicken Lips,Fungi,348808,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Leotiales,Leotiaceae,Leotia
+39.8662414551,-79.5006561279,567,Bulgaria inquinans,Poor Man's Licorice,Fungi,83419,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Phacidiales,Phacidiaceae,Bulgaria
+39.8697509766,-79.4985961914,13,Mutinus ravenelii,red stinkhorn,Fungi,116662,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Phallomycetidae,Phallales,Phallaceae,Mutinus
+39.8663635254,-79.5006866455,14,Bulgaria inquinans,Poor Man's Licorice,Fungi,83419,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Phacidiales,Phacidiaceae,Bulgaria
+39.8085333333,-79.4554583333,17,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8526881552,-79.4999744749,745,Amanita flavoconia,Yellow Patches,Fungi,125389,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8537276725,-79.5002401092,1772,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8735640863,-79.4958026716,530,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8739787043,-79.4892561377,530,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8746369928,-79.4939590165,530,Radulomyces copelandii,Asian Beauty,Fungi,1113584,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Radulomycetaceae,Radulomyces
+39.8446655273,-79.4734191895,4,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8446717607,-79.4731217458,4,Entoloma abortivum,Aborted entoloma,Fungi,70222,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Entolomataceae,Entoloma
+39.8457717898,-79.4732482574,4,Oudemansiella furfuracea,Beech Rooter,Fungi,785472,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Physalacriaceae,Oudemansiella
+39.8472922307,-79.4741897961,4,Laccaria ochropurpurea,Purple-and-White Deceiver,Fungi,143308,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hydnangiaceae,Laccaria
+39.8442298879,-79.4772540146,4,Clavulinopsis fusiformis,Golden Spindles,Fungi,55272,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clavariaceae,Clavulinopsis
+39.8439662973,-79.47710471,4,Cortinarius iodes,Viscid Violet Cort,Fungi,154583,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Cortinariaceae,Cortinarius
+39.8733366667,-79.497625,20,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8567916667,-79.4972083333,2431,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8918966667,-79.50682,4,Hypholoma fasciculare,Sulphur Tuft,Fungi,48767,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Strophariaceae,Hypholoma
+39.8920966667,-79.5066966667,5,Strobilomyces strobilaceus,Old-man-of-the-woods,Fungi,352462,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Strobilomyces
+39.8921133333,-79.5067133333,4,Tatraea macrospora,,Fungi,154757,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Helotiaceae,Tatraea
+39.8920216667,-79.5063383333,4,Cyathus striatus,fluted bird's nest fungus,Fungi,120242,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Nidulariaceae,Cyathus
+39.8920033333,-79.5062116667,6,Lycoperdon perlatum,common puffball,Fungi,48443,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Lycoperdon
+39.8915783333,-79.5053333333,4,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8914466667,-79.5050583333,4,Arrhenia epichysium,brown goblet,Fungi,67343,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hygrophoraceae,Arrhenia
+39.8915333333,-79.5051033333,4,Lentinellus ursinus,bear lentinus,Fungi,118231,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Lentinellus
+39.8914333333,-79.5050883333,4,Clitocybula oculus,,Fungi,146742,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Porotheleaceae,Clitocybula
+39.8914866667,-79.50505,4,Collybia nuda,Blewit,Fungi,1525548,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Clitocybaceae,Collybia
+39.8914319457,-79.5049470997,15,Tectella patellaris,veiled panus,Fungi,978480,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Sarcomyxaceae,Tectella
+39.9022972,-79.4917046,1664,Steccherinum ochraceum,Ochre Spreading Tooth,Fungi,118096,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Steccherinaceae,Steccherinum
+39.9022972,-79.4917046,1664,Leotia lubrica,Ochre Jelly Club,Fungi,58669,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Leotiales,Leotiaceae,Leotia
+39.9022972,-79.4917046,1664,Stereum complicatum,crowded parchment,Fungi,196842,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Stereaceae,Stereum
+39.9022972,-79.4917046,1664,Apioperdon pyriforme,Pear-shaped Puffball,Fungi,972793,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Apioperdon
+39.9022972,-79.4917046,1664,Pachyella clypeata,Copper Penny Fungus,Fungi,194245,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Pezizaceae,Pachyella
+39.9022972,-79.4917046,1664,Galerina marginata,Funeral Bell,Fungi,154735,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hymenogastraceae,Galerina
+39.9022972,-79.4917046,1664,Ossicaulis lignatilis,Bonestem,Fungi,516040,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lyophyllaceae,Ossicaulis
+39.9022972,-79.4917046,1664,Plicaturopsis crispa,crimped gill,Fungi,55565,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Amylocorticiales,Amylocorticiaceae,Plicaturopsis
+39.9022972,-79.4917046,1664,Ganoderma applanatum,artist's bracket,Fungi,48473,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Ganoderma
+39.9022972,-79.4917046,1664,Datronia mollis,Common Mazegill,Fungi,350636,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Datronia
+39.8911366667,-79.503425,4,Daedaleopsis confragosa,Thin-walled Maze Polypore,Fungi,124102,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Daedaleopsis
+39.8909116667,-79.502005,4,Trichaptum biforme,violet-toothed polypore,Fungi,125705,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Trichaptum
+39.890805,-79.5019833333,5,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8936616667,-79.49797,4,Clavariadelphus americanus,,Fungi,507148,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Phallomycetidae,Gomphales,Clavariadelphaceae,Clavariadelphus
+39.8937916667,-79.49775,4,Hydnum subolympicum,,Fungi,793363,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Hydnum
+39.893705,-79.4980166667,5,Hypomyces chrysospermus,bolete mould,Fungi,152947,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Hypocreaceae,Hypomyces
+39.8937383333,-79.4980466667,4,Pluteus cervinus,Deer Mushroom,Fungi,60782,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Pluteaceae,Pluteus
+39.8972783333,-79.494745,4,Tyromyces chioneus,White Cheese Polypore,Fungi,130946,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Incrustoporiaceae,Tyromyces
+39.8984616667,-79.4942466667,5,Picipes badius,Bay Polypore,Fungi,510852,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Picipes
+39.89897,-79.4942116667,5,Leratiomyces squamosus thraustus,slender roundhead,Fungi,334046,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Strophariaceae,Leratiomyces
+39.9022972,-79.4917046,1664,Radulomyces copelandii,Asian Beauty,Fungi,1113584,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Radulomycetaceae,Radulomyces
+39.9022972,-79.4917046,1664,Hydnum umbilicatum,depressed hedgehog,Fungi,48421,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Hydnum
+39.9022972,-79.4917046,1664,Sebacina schweinitzii,jellied false coral fungus,Fungi,736008,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Sebacinales,Sebacinaceae,Sebacina
+39.9022972,-79.4917046,1664,Lycoperdon echinatum,Spiny Puffball,Fungi,343169,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Lycoperdon
+39.8989366667,-79.4943383333,4,Cantharellus appalachiensis,Appalachian Chanterelle,Fungi,501610,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Cantharellus
+39.899575,-79.49308,4,Laccaria ochropurpurea,Purple-and-White Deceiver,Fungi,143308,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hydnangiaceae,Laccaria
+39.89992,-79.49282,4,Amanita lavendula,Coker's Lavender Staining Amanita,Fungi,810894,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.898245,-79.4941116667,4,Amanita suballiacea,Garlic-Odored Death Cap,Fungi,525036,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8743072898,-79.4966122416,9,Fomitopsis betulina,birch polypore,Fungi,775410,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Fomitopsidaceae,Fomitopsis
+39.8501716415,-79.4895154518,4,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8631379722,-79.5023989722,,Coprinus comatus,Shaggy Mane,Fungi,47392,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Coprinaceae,Coprinus
+39.8735716667,-79.4961466667,4,Trichaptum biforme,violet-toothed polypore,Fungi,125705,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Trichaptum
+39.8734466667,-79.4973916667,9,Calycina citrina,Yellow Fairy Cups,Fungi,955949,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Pezizellaceae,Calycina
+39.8724716667,-79.4985366667,83,Hypholoma lateritium,Brick Cap,Fungi,130203,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Strophariaceae,Hypholoma
+39.871945,-79.501105,15,Apioperdon pyriforme,Pear-shaped Puffball,Fungi,972793,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Apioperdon
+39.8700916667,-79.4985416667,4,Calycina citrina,Yellow Fairy Cups,Fungi,955949,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Pezizellaceae,Calycina
+39.8497826997,-79.4722634997,,Rigidoporus populinus,Poplar Bracket,Fungi,1149663,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Rigidoporaceae,Rigidoporus
+39.8511209997,-79.4726514997,,Chlorociboria aeruginascens,Green Wood Cup,Fungi,122329,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Chlorociboriaceae,Chlorociboria
+39.8519408,-79.4742427997,,Calycina citrina,Yellow Fairy Cups,Fungi,955949,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Pezizellaceae,Calycina
+39.8470751997,-79.4734344997,,Chlorociboria aeruginascens,Green Wood Cup,Fungi,122329,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Chlorociboriaceae,Chlorociboria
+39.8918916389,-79.5010138889,3,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8923860833,-79.5001972222,,Trichaptum biforme,violet-toothed polypore,Fungi,125705,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Trichaptum
+39.8930138889,-79.497925,4,Trametes pubescens,,Fungi,203711,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8701218008,-79.4995372742,58,Laetiporus conifericola,Conifer Chicken of the Woods,Fungi,118057,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.8934888611,-79.4978110833,3,Sebacina schweinitzii,jellied false coral fungus,Fungi,736008,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Sebacinales,Sebacinaceae,Sebacina
+39.8631783333,-79.4992666667,4,Apioperdon pyriforme,Pear-shaped Puffball,Fungi,972793,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Lycoperdaceae,Apioperdon
+39.86156781,-79.43134076,9,Hericium erinaceus,lion's-mane mushroom,Fungi,49158,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Hericiaceae,Hericium
+39.8909912109,-79.5037002563,4,Galerina marginata,Funeral Bell,Fungi,154735,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hymenogastraceae,Galerina
+39.8910522461,-79.5036087036,4,Sarcomyxa serotina,Late Oyster,Fungi,63585,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Sarcomyxaceae,Sarcomyxa
+39.8948364258,-79.4980316162,4,Ischnoderma resinosum,Resinous Polypore,Fungi,130919,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Ischnodermataceae,Ischnoderma
+39.8910633333,-79.503395,4,Ischnoderma resinosum,Resinous Polypore,Fungi,130919,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Ischnodermataceae,Ischnoderma
+39.891075,-79.5036916667,4,Sarcomyxa serotina,Late Oyster,Fungi,63585,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Sarcomyxaceae,Sarcomyxa
+39.8733519164,-79.5039666072,192,Schizophyllum commune,splitgill mushroom,Fungi,54573,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Schizophyllaceae,Schizophyllum
+39.8736303275,-79.5038509369,84,Trichaptum biforme,violet-toothed polypore,Fungi,125705,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Trichaptum
+39.8646583333,-79.50263,4,Panellus stipticus,Luminescent Panellus,Fungi,68309,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Panellus
+39.8649616667,-79.5030366667,4,Plicaturopsis crispa,crimped gill,Fungi,55565,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Amylocorticiales,Amylocorticiaceae,Plicaturopsis
+39.8651383333,-79.5030533333,4,Daldinia childiae,,Fungi,350616,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Xylariomycetidae,Xylariales,Hypoxylaceae,Daldinia
+39.8652633333,-79.5030616667,4,Stereum lobatum,,Fungi,1031780,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Stereaceae,Stereum
+39.8653,-79.5030366667,4,Datronia mollis,Common Mazegill,Fungi,350636,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Datronia
+39.8652533333,-79.503045,4,Trametes gibbosa,Lumpy Bracket,Fungi,410641,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8652616667,-79.5030616667,4,Scutellinia setosa,,Fungi,130856,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Pyronemataceae,Scutellinia
+39.8652416667,-79.5030666667,4,Exidia crenata,American Amber Jelly Fungus,Fungi,879877,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Auriculariales,Auriculariaceae,Exidia
+39.8651216667,-79.5029533333,4,Ascocoryne sarcoides,Purple Jellydisc,Fungi,49075,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Gelatinodiscaceae,Ascocoryne
+39.865245,-79.50293,4,Stereum complicatum,crowded parchment,Fungi,196842,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Stereaceae,Stereum
+39.8653133333,-79.503045,4,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8652783333,-79.5029366667,4,Bjerkandera adusta,Smoky polypore,Fungi,118038,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Phanerochaetaceae,Bjerkandera
+39.8655166667,-79.50277,4,Merulius tremellosus,Trembling Crust,Fungi,179113,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Meruliaceae,Merulius
+39.8656283333,-79.5030366667,4,Ischnoderma resinosum,Resinous Polypore,Fungi,130919,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Ischnodermataceae,Ischnoderma
+39.865605,-79.5030283333,4,Sarcomyxa serotina,Late Oyster,Fungi,63585,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Sarcomyxaceae,Sarcomyxa
+39.8656083333,-79.5031283333,4,Holwaya mucida,,Fungi,126908,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Thelebolales,Holwayaceae,Holwaya
+39.86558,-79.5031533333,4,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.865645,-79.50322,4,Picipes badius,Bay Polypore,Fungi,510852,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Picipes
+39.8668466667,-79.5029,4,Lentinus brumalis,Winter polypore,Fungi,947949,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Lentinus
+39.8698283333,-79.5017866667,4,Flammulina velutipes,Velvet Foot,Fungi,67594,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Physalacriaceae,Flammulina
+39.87062,-79.50148,4,Trametes gibbosa,Lumpy Bracket,Fungi,410641,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8708616667,-79.5015283333,4,Sarcomyxa serotina,Late Oyster,Fungi,63585,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Sarcomyxaceae,Sarcomyxa
+39.87083,-79.5014883333,4,Phlebia radiata,Wrinkled Crust,Fungi,155122,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Meruliaceae,Phlebia
+39.8708916667,-79.5014033333,4,Trametes cinnabarina,Northern Cinnabar Polypore,Fungi,974663,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8721583333,-79.501105,9,Ischnoderma resinosum,Resinous Polypore,Fungi,130919,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Ischnodermataceae,Ischnoderma
+39.8720666667,-79.500795,11,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8954000775,-79.5035281723,122,Grifola frondosa,hen of the woods,Fungi,53714,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Grifolaceae,Grifola
+39.8831347208,-79.4904293003,61,Hygrocybe miniata,Vermilion Waxcap,Fungi,194659,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Hygrophoraceae,Hygrocybe
+39.8745422363,-79.4957504272,4,Sarcomyxa serotina,Late Oyster,Fungi,63585,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Sarcomyxaceae,Sarcomyxa
+39.8663201808,-79.4810687019,362,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8645556509,-79.5021437109,43,Flammulina velutipes,Velvet Foot,Fungi,67594,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Physalacriaceae,Flammulina
+39.8688910077,-79.5021819323,161,Ascocoryne sarcoides,Purple Jellydisc,Fungi,49075,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Gelatinodiscaceae,Ascocoryne
+39.871004705,-79.4876771757,24,Akanthomyces aculeatus,,Fungi,179745,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreomycetidae,Hypocreales,Cordycipitaceae,Akanthomyces
+39.87092,-79.4978633333,4,Scorias spongiosa,Honeydew Eater,Fungi,144013,Fungi,Ascomycota,Pezizomycotina,Dothideomycetes,Dothideomycetidae,Capnodiales,Capnodiaceae,Scorias
+39.8659583333,-79.5006033333,1743,Calostoma lutescens,Collared Calostoma,Fungi,372664,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Calostoma
+39.870075,-79.4984583333,4,Multiclavula mucida,White green-algae coral,Fungi,205261,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Hydnaceae,Multiclavula
+39.8651383333,-79.50322,61,Sarcoscypha austriaca,Scarlet Elfcup,Fungi,126913,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Sarcoscyphaceae,Sarcoscypha
+39.8391083333,-79.4747783333,4,Schizophyllum commune,splitgill mushroom,Fungi,54573,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Schizophyllaceae,Schizophyllum
+39.8394916667,-79.475205,4,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.84107,-79.4750216667,11,Exidia crenata,American Amber Jelly Fungus,Fungi,879877,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Auriculariales,Auriculariaceae,Exidia
+39.84195,-79.4745466667,99,Lasallia papulosa,Common Toadskin Lichen,Fungi,125708,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Lasallia
+39.8403866667,-79.4750133333,75,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8825916667,-79.4821616667,4,Radulomyces copelandii,Asian Beauty,Fungi,1113584,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Radulomycetaceae,Radulomyces
+39.8309936523,-79.4387664795,4,Trametes cinnabarina,Northern Cinnabar Polypore,Fungi,974663,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8394470215,-79.4295272827,4,Fomitopsis betulina,birch polypore,Fungi,775410,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Fomitopsidaceae,Fomitopsis
+39.8418273926,-79.4317703247,4,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.865975,-79.47963,4,Calostoma lutescens,Collared Calostoma,Fungi,372664,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Sclerodermataceae,Calostoma
+39.83845,-79.4298033333,4,Mycosphaerella colorata,Mountain Laurel Leaf Spot,Fungi,543288,Fungi,Ascomycota,Pezizomycotina,Dothideomycetes,Dothideomycetidae,Mycosphaerellales,Mycosphaerellaceae,Ramularia
+39.8661499023,-79.4804000854,14,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8988533106,-79.4943271707,35,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8731333333,-79.4978416667,6,Tremella mesenterica,witch's butter,Fungi,48529,Fungi,Basidiomycota,Agaricomycotina,Tremellomycetes,,Tremellales,Tremellaceae,Tremella
+39.84055,-79.475045,4,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8583790704,-79.5121233062,35,Puccinia mariae-wilsoniae,spring beauty rust,Fungi,243710,Fungi,Basidiomycota,Pucciniomycotina,Pucciniomycetes,,Pucciniales,Pucciniaceae,Puccinia
+39.9115704825,-79.5291070151,244,Fomitopsis betulina,birch polypore,Fungi,775410,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Fomitopsidaceae,Fomitopsis
+39.9070293705,-79.5240479342,244,Trametes versicolor,turkey-tail,Fungi,54134,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.9086565946,-79.5187656502,122,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.8633785101,-79.4997461818,57,Phylloscypha phyllogena,Common Brown Cup,Fungi,1110795,Fungi,Ascomycota,Pezizomycotina,Pezizomycetes,,Pezizales,Pezizaceae,Phylloscypha
+39.8550416667,-79.4872416667,7,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8772083333,-79.49353,112,Entoloma strictius,Straight-stalked Entoloma,Fungi,341614,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Entolomataceae,Entoloma
+39.8852083333,-79.479195,41,Cerioporus squamosus,Dryad's Saddle,Fungi,940028,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Cerioporus
+39.87728,-79.4929666667,81,Porpidia albocaerulescens,Smokey-eyed Boulder Lichen,Fungi,125773,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Lecideales,Lecideaceae,Porpidia
+39.841755,-79.4354466667,7,Fulvifomes robiniae,Cracked Cap Polypore,Fungi,1145488,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Fulvifomes
+39.832955,-79.44082,13,Cerioporus squamosus,Dryad's Saddle,Fungi,940028,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Cerioporus
+39.8661816667,-79.480925,9,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.9014133333,-79.4920716667,4,Mycena leaiana,orange mycena,Fungi,128516,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Mycena
+39.896155,-79.4966883333,4,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
+39.832685,-79.4403983333,7,Cerioporus squamosus,Dryad's Saddle,Fungi,940028,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Cerioporus
+39.89277,-79.4986116667,4,Daldinia childiae,,Fungi,350616,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Xylariomycetidae,Xylariales,Hypoxylaceae,Daldinia
+39.8493083333,-79.490045,8,Mycetinis opacus,,Fungi,565099,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Mycetinis
+39.8424864093,-79.4760919803,2074,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8758516667,-79.4966783333,9,Ganoderma tsugae,hemlock varnish shelf,Fungi,63274,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Ganoderma
+39.8601379395,-79.49949646,3000,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.8712416669,-79.4988432527,132,Bulgaria inquinans,Poor Man's Licorice,Fungi,83419,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Phacidiales,Phacidiaceae,Bulgaria
+39.8403216667,-79.4781116667,7,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8361533333,-79.476325,6,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.82849,-79.453965,10,Allodus podophylli,Mayapple Rust,Fungi,417511,Fungi,Basidiomycota,Pucciniomycotina,Pucciniomycetes,,Pucciniales,,Allodus
+39.8249066667,-79.448835,9,Tremella mesenterica,witch's butter,Fungi,48529,Fungi,Basidiomycota,Agaricomycotina,Tremellomycetes,,Tremellales,Tremellaceae,Tremella
+39.825195,-79.4514316667,8,Gymnoconia peckiana,blackberry orange rust,Fungi,702749,Fungi,Basidiomycota,Pucciniomycotina,Pucciniomycetes,,Pucciniales,Phragmidiaceae,Gymnoconia
+39.8275866667,-79.4544916667,8,Ramularia rubella,Red Dock Spot,Fungi,384093,Fungi,Ascomycota,Pezizomycotina,Dothideomycetes,Dothideomycetidae,Mycosphaerellales,Mycosphaerellaceae,Ramularia
+39.8619583333,-79.4281222222,,Bondarzewia berkeleyi,Berkeley's Polypore,Fungi,84224,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Bondarzewiaceae,Bondarzewia
+39.918655,-79.491125,10,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.8656216667,-79.5027933333,8,Ductifera pululahuana,white jelly fungus,Fungi,320321,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Auriculariales,,Ductifera
+39.87555,-79.4976016667,10,Schizophyllum commune,splitgill mushroom,Fungi,54573,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Schizophyllaceae,Schizophyllum
+39.8639789792,-79.4771494554,244,Cerioporus leptocephalus,Blackfoot Polypore,Fungi,928232,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Cerioporus
+39.83299,-79.4409116667,9,Allodus podophylli,Mayapple Rust,Fungi,417511,Fungi,Basidiomycota,Pucciniomycotina,Pucciniomycetes,,Pucciniales,,Allodus
+39.8261016667,-79.44445,10,Gymnoconia peckiana,blackberry orange rust,Fungi,702749,Fungi,Basidiomycota,Pucciniomycotina,Pucciniomycetes,,Pucciniales,Phragmidiaceae,Gymnoconia
+39.8699033333,-79.4991833333,42,Bulgaria inquinans,Poor Man's Licorice,Fungi,83419,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Phacidiales,Phacidiaceae,Bulgaria
+39.886345,-79.482365,7,Ramaria stricta,Upright Coral Fungus,Fungi,54228,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Phallomycetidae,Gomphales,Gomphaceae,Ramaria
+39.8653533333,-79.5002583333,20,Suillus spraguei,Painted Suillus,Fungi,782231,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Suillaceae,Suillus
+39.8748666667,-79.497245,47,Amanita flavoconia,Yellow Patches,Fungi,125389,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8735633333,-79.4971916667,13,Pseudoinonotus dryadeus,oak bracket,Fungi,787944,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Pseudoinonotus
+39.8667883333,-79.5003716667,4,Tremella mesenterica,witch's butter,Fungi,48529,Fungi,Basidiomycota,Agaricomycotina,Tremellomycetes,,Tremellales,Tremellaceae,Tremella
+39.8785933333,-79.4851033333,9,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.881095,-79.4842683333,15,Radulomyces copelandii,Asian Beauty,Fungi,1113584,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Radulomycetaceae,Radulomyces
+39.8793816667,-79.48583,9,Coprinopsis variegata,scaly ink cap,Fungi,362215,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Psathyrellaceae,Coprinopsis
+39.8787433333,-79.4916883333,8,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.9312266667,-79.4894833333,9,Cyptotrama chrysopepla,golden coincap,Fungi,379777,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Physalacriaceae,Cyptotrama
+39.8517914319,-79.4695517887,3093,Cyathus striatus,fluted bird's nest fungus,Fungi,120242,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Nidulariaceae,Cyathus
+39.8625916667,-79.4241466667,4,Ganoderma tsugae,hemlock varnish shelf,Fungi,63274,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Ganoderma
+39.8625916667,-79.4241466667,4,Ganoderma applanatum,artist's bracket,Fungi,48473,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Ganoderma
+39.86203,-79.4281216667,6,Bondarzewia berkeleyi,Berkeley's Polypore,Fungi,84224,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Bondarzewiaceae,Bondarzewia
+39.866,-79.4530033333,4,Lactifluus volemus,Weeping Milk Cap,Fungi,503241,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Lactifluus
+39.858565,-79.4974216667,9,Schizophyllum commune,splitgill mushroom,Fungi,54573,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Schizophyllaceae,Schizophyllum
+39.9053533333,-79.482195,8,Radulomyces copelandii,Asian Beauty,Fungi,1113584,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Radulomycetaceae,Radulomyces
+39.8656983333,-79.50075,11,Amanita flavoconia,Yellow Patches,Fungi,125389,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.8711083333,-79.4991266667,12,Bulgaria inquinans,Poor Man's Licorice,Fungi,83419,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Phacidiales,Phacidiaceae,Bulgaria
+39.8728666667,-79.4971966667,7,Trichaptum biforme,violet-toothed polypore,Fungi,125705,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Hymenochaetales,Hymenochaetaceae,Trichaptum
+39.8639972482,-79.5011674863,60,Physcia subtilis,slender rosette lichen,Fungi,228058,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Lecanoromycetidae,Caliciales,Physciaceae,Physcia
+39.8500466667,-79.48977,5,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8519133333,-79.5008,67,Bondarzewia berkeleyi,Berkeley's Polypore,Fungi,84224,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Bondarzewiaceae,Bondarzewia
+39.872005,-79.4983666667,8,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8961555556,-79.4963694444,64,Radulomyces copelandii,Asian Beauty,Fungi,1113584,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Radulomycetaceae,Radulomyces
+39.8498111111,-79.4897472222,8,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.9022972,-79.4917046,189,Gymnopus dryophilus,Oak-loving Gymnopus,Fungi,130915,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Gymnopus
+39.9022972,-79.4917046,189,Fomitopsis spraguei,green cheese polypore,Fungi,1537055,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Fomitopsidaceae,Fomitopsis
+39.9022972,-79.4917046,189,Radulomyces copelandii,Asian Beauty,Fungi,1113584,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Radulomycetaceae,Radulomyces
+39.9022972,-79.4917046,189,Artomyces pyxidatus,crown-tipped coral fungus,Fungi,334704,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Auriscalpiaceae,Artomyces
+39.9022972,-79.4917046,189,Femsjonia peziziformis,,Fungi,1272429,Fungi,Basidiomycota,Agaricomycotina,Dacrymycetes,,Dacrymycetales,Dacrymycetaceae,Femsjonia
+39.9022972,-79.4917046,189,Tulasnella aurantiaca,,Fungi,1195407,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Cantharellales,Tulasnellaceae,Tulasnella
+39.9022972,-79.4917046,189,Amanita daucipes,Carrot-Footed Lepidella,Fungi,350035,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Amanitaceae,Amanita
+39.9022972,-79.4917046,189,Cerioporus leptocephalus,Blackfoot Polypore,Fungi,928232,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Cerioporus
+39.9022972,-79.4917046,189,Bjerkandera adusta,Smoky polypore,Fungi,118038,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Phanerochaetaceae,Bjerkandera
+39.9022972,-79.4917046,189,Crepidotus applanatus,Flat Crep,Fungi,350514,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Crepidotaceae,Crepidotus
+39.9022972,-79.4917046,189,Cyathus striatus,fluted bird's nest fungus,Fungi,120242,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Nidulariaceae,Cyathus
+39.9022972,-79.4917046,189,Trametes ochracea,Ochre Bracket,Fungi,118111,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.9022972,-79.4917046,189,Infundibulicybe gibba,Common Funnel,Fungi,921916,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalinaceae,Infundibulicybe
+39.9022972,-79.4917046,189,Gymnopus foetidus,Foetid Parachute,Fungi,120858,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Gymnopus
+39.9022972,-79.4917046,189,Neofavolus americanus,,Fungi,1076785,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Neofavolus
+39.9022972,-79.4917046,189,Gymnopus dryophilus,Oak-loving Gymnopus,Fungi,130915,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Gymnopus
+39.9022972,-79.4917046,189,Stereum subtomentosum,yellowing curtain crust,Fungi,155081,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Stereaceae,Stereum
+39.9022972,-79.4917046,189,Xylaria longipes,Dead Moll's Fingers,Fungi,352912,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Xylariomycetidae,Xylariales,Xylariaceae,Xylaria
+39.8966666667,-79.4971466667,209,Trametes gibbosa,Lumpy Bracket,Fungi,410641,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Trametes
+39.8968383333,-79.4955216667,21,Russula grata,Almond-scented Russula,Fungi,118191,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Russulaceae,Russula
+39.8912383333,-79.5044033333,144,Stereum subtomentosum,yellowing curtain crust,Fungi,155081,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Russulales,Stereaceae,Stereum
+39.863495,-79.5004416667,4,Mycena leaiana,orange mycena,Fungi,128516,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Mycenaceae,Mycena
+39.8332519531,-79.4364700317,4,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.8812854,-79.4990362,4000,Sparassis spathulata,Eastern cauliflower mushroom,Fungi,334319,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Sparassidaceae,Sparassis
+39.8700166667,-79.4992366667,4,Omphalotus illudens,Eastern American jack-o'-lantern,Fungi,126831,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Agaricales,Omphalotaceae,Omphalotus
+39.8648347333,-79.501689328,5,Ganoderma tsugae,hemlock varnish shelf,Fungi,63274,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Polyporaceae,Ganoderma
+39.8499416667,-79.4897,34,Umbilicaria mammulata,Smooth Rock Tripe,Fungi,59954,Fungi,Ascomycota,Pezizomycotina,Lecanoromycetes,Umbilicariomycetidae,Umbilicariales,Umbilicariaceae,Umbilicaria
+39.852875,-79.488175,21,Chlorociboria aeruginascens,Green Wood Cup,Fungi,122329,Fungi,Ascomycota,Pezizomycotina,Leotiomycetes,,Helotiales,Chlorociboriaceae,Chlorociboria
+39.8537666667,-79.4883633333,60,Retiboletus ornatipes,Ornate-stalked bolete,Fungi,348815,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Agaricomycetidae,Boletales,Boletaceae,Retiboletus
+39.8563916667,-79.49002,38,Laetiporus sulphureus,chicken of the woods,Fungi,53713,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,,Polyporales,Laetiporaceae,Laetiporus
