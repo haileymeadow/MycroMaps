@@ -9,10 +9,10 @@ Welcome to the Knowledge Base for Fungi and Protists! This repository is dedicat
 - [What are Fungi?](#what-are-fungi)
 - [What are Protists?](#what-are-protists)
 - [Educational Resources](#educational-resources)
-- [Visual Aids](#visual-aids)
-- [Interactive Learning](#interactive-learning)
+- [Interactive and Fun Learning](#interactive-and-fun-learning)
 
-## 🍄 What are Fungi?
+## What are Fungi? 
+🍄
 
 Fungi are a diverse group of organisms that play crucial roles in ecosystems. They can be found in various environments, from soil and water to on other living organisms. Fungi can be:
 
@@ -51,7 +51,8 @@ Fungi are essential for nutrient cycling, breaking down organic matter, and form
 - [Mycology Start](https://mycologyst.art/learn-mycology/) (Mycology Start is a website project by a fellow Pittsburgh mycologist, Chris!)
 - [The Fifth Kingdom](https://www.mycolog.com/fifthtoc.html) (The textbook I used for my first mycology course!)
 
-## 🦠: What are Protists?
+## What are Protists? 
+🦠
 
 Protists are a diverse group of eukaryotic microorganisms that do not fit into the other kingdoms (Plantae, Animalia, Fungi). They include:
 
@@ -94,12 +95,12 @@ Protists play various ecological roles, including being primary producers in aqu
 
 ### Fungi Basics
 
-- [Fungi Overview - Encyclopedia of Life](https://eol.org/pages/4945)
+- [Fungi Overview - Encyclopedia of Life](https://eol.org/pages/5559)
 - [Introduction to Fungi - Khan Academy](https://www.khanacademy.org/science/biology/her/tree-of-life/a/introduction-to-fungi)
 
 ### Protists Basics
 
-- [Protists Overview - Encyclopedia of Life](https://eol.org/pages/22965)
+- [The Protist - Encylopedia of Life Support Systems](https://www.eolss.net/sample-chapters/c03/E6-71-90-16.pdf)
 - [Introduction to Protists - Khan Academy](https://www.khanacademy.org/science/biology/her/tree-of-life/a/introduction-to-protists)
 
 
