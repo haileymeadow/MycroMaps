@@ -1,6 +1,6 @@
 # 🍄  MycoMaps 
 <div align="center">
-  <img src="https://github.com/haileymeadow/MycoMaps/blob/main/Logo/MycoMaps_Logo.png?raw=true" alt="MycoMaps Logo" width="300" />
+  <img src="https://github.com/haileymeadow/MycoMaps/blob/main/Knowledge%20Base/MycoMaps_Logo.png?raw=true" alt="MycoMaps Logo" width="300" />
 </div>
 
 # 🌿
@@ -27,8 +27,6 @@ For many years, Mycologists classified Slime and Water molds as Mycological orga
     <img src="https://img.youtube.com/vi/nPOQQp8CCls/hqdefault.jpg" alt="Watch the video" />
   </a>
 </p>
-
-
 
 
 ### Key Features (ongoing)
