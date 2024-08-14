@@ -1,54 +1,118 @@
-# MycoMaps 🍄
+# 🍄 Fungi and Protists Knowledge Base
 
-🌿 Welcome to the MycoMaps project! This repository contains datasets, scripts, and resources for analyzing Fungi and Protozoa species using R and GIS tools. This project aims to provide a comprehensive set of data and tools for ecological research, biodiversity analysis, and spatial studies. This is currently an independent project, and will be updated slowly as I am currently pursuing my Bachelor's degree. 
+## Introduction
+
+Welcome to the Knowledge Base for Fungi and Protists! This repository is dedicated to providing fundamental information about these fascinating groups of organisms.
 
 ## Table of Contents
 
-- [About the Project](#about-my-project)
-- [Datasets](#datasets)
-- [Prerequisites](#prerequisites)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
+- [What are Fungi?](#what-are-fungi)
+- [What are Protists?](#what-are-protists)
+- [Educational Resources](#educational-resources)
+- [Visual Aids](#visual-aids)
+- [Interactive Learning](#interactive-learning)
 
-## About my Project
+## 🍄 What are Fungi?
 
-This project was developed to facilitate the study and analysis of Fungi and Protozoa species through modern data science tools. As an Environmental Science student, I became fascinated with microbiologic organisms such as Fungi and Protozoa after I completed a Mycology course during my bachelor's degree. Combining my love for these organisms, and a passion for technology, this project was born!
+Fungi are a diverse group of organisms that play crucial roles in ecosystems. They can be found in various environments, from soil and water to on other living organisms. Fungi can be:
 
-### Key Features (ongoing)
+- **Unicellular:** Single-celled organisms like yeasts.
+(Think of Bread!)
 
-- **Datasets**: Includes diverse datasets on Fungi and Protozoa species.
-- **R Scripts**: Pre-written R scripts for data cleaning, visualization, and statistical analysis. 
-- **GIS Tools**: Resources and guides for incorporating these datasets into GIS software for spatial analysis.
-- **Open-Source**: The repository is open to contributions and collaboration from the community.
+<p align="center">
+  <a title="Mogana Das Murtey and Patchamuthu Ramasamy, CC BY 3.0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Saccharomyces_cerevisiae_SEM.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Saccharomyces_cerevisiae_SEM.jpg/512px-Saccharomyces_cerevisiae_SEM.jpg?20161014064352" alt="Saccharomyces cerevisiae SEM" width="512" />
+  </a>
+  <br>
+  <span> Mogana Das Murtey and Patchamuthu Ramasamy via <a href="https://commons.wikimedia.org/wiki/File:Saccharomyces_cerevisiae_SEM.jpg">Wikimedia Commons</a></span>
+</p>
 
-## Datasets
 
-The following datasets are/will be included in this repository:
+- **Multicellular:** Complex structures such as mushrooms and molds.
 
-1. **Fungi Species Dataset**:
-   - **Description**: Contains records of various fungi species, including geographic locations, ecological conditions, and other relevant attributes.
-   - **Format**: CSV, GeoJSON
-   - **Source**: Collected from fieldwork and public databases.
+<p align="center">
+  <img src="https://images.pexels.com/photos/129467/pexels-photo-129467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Mushrooms Image" width="500" />
+  <br>
+  <span>Photo by <a href="https://www.pexels.com/photo/shallow-focus-photography-of-orange-and-white-mushrooms-during-daytime-129467/">Paula</a> from Pexels</span>
+</p>
 
-2. **Protozoa Species Dataset**:
-   - **Description**: Includes data on protozoa species, with a focus on species diversity and distribution.
-   - **Format**: CSV, GeoJSON
-   - **Source**: Field studies and verified databases.
 
-## Prerequisites
+<p align="center">
+  <a title="© Nevit Dilmen, CC BY-SA 3.0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Mold_6552.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mold_6552.jpg/512px-Mold_6552.jpg?20141019185037" alt="Mold 6552" width="512" />
+  </a>
+  <br>
+  <span> Nevit Dilmen via <a href="https://commons.wikimedia.org/wiki/File:Mold_6552.jpg">Wikimedia Commons</a></span>
+</p>
 
-Ensure you have the following software installed:
+Fungi are essential for nutrient cycling, breaking down organic matter, and forming symbiotic relationships with plants.
 
-- [Download and install R](https://www.r-project.org/)
-- [Download and install RStudio](https://rstudio.com/) (Optional, but recommended for easier R programming)
-- [Download and install QGIS](https://qgis.org/) (Optional, but recommended for spatial analysis and GIS integration, QGIS is opensource and free!)
+**Learn More:**
+- [Mycology Start](https://mycologyst.art/learn-mycology/) (Mycology Start is a website project by a fellow Pittsburgh mycologist, Chris!)
+- [The Fifth Kingdom](https://www.mycolog.com/fifthtoc.html) (The textbook I used for my first mycology course!)
 
-## Contributing
+## 🦠: What are Protists?
 
-I welcome any and all contributions to this project! I am a beginner in learning GitHub, and have only general knowledge of plotting in R and GIS. This project is to help grow my skillsets. 
+Protists are a diverse group of eukaryotic microorganisms that do not fit into the other kingdoms (Plantae, Animalia, Fungi). They include:
 
-## Acknowledgements
+- **Protozoa:** Single-celled organisms that often exhibit animal-like behaviors, such as movement and predation.
+ 
+<p align="center">
+  <a href="https://commons.wikimedia.org/wiki/File:Protozoa_sp._(16255394772).jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Protozoa_sp._%2816255394772%29.jpg/512px-Protozoa_sp._%2816255394772%29.jpg?20150204193126" alt="Protozoa sp. (16255394772)" width="512" />
+  </a>
+  <br>
+  <span> Donald Hobern via <a href="https://commons.wikimedia.org/wiki/File:Protozoa_sp._(16255394772).jpg">Wikimedia Commons</a></span>
+</p>
 
-- Special thanks to the mycology and protozoology communities for their data and insights.
-- This project was inspired by fieldwork and research conducted at [Pennsylvania Western University](https://sai.calu.edu/farm/) and inspired by other projects such as [SPUN](https://www.spun.earth/), [fungiMap](https://fungimap.org.au/), and [MyCoPortal](https://www.mycoportal.org/portal/index.php).
+- **Algae:** Photosynthetic protists that can be found in aquatic environments.
 
+   <p align="center">
+  <a href="https://commons.wikimedia.org/wiki/File:Algae_in_Stagnant_Water.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Algae_in_Stagnant_Water.jpg/512px-Algae_in_Stagnant_Water.jpg?20190630212839" alt="Algae in Stagnant Water" width="512" />
+  </a>
+  <br>
+  <span> Solasly via <a href="https://commons.wikimedia.org/wiki/File:Algae_in_Stagnant_Water.jpg">Wikimedia Commons</a></span>
+</p>
+
+- **Slime Molds:** Organisms with characteristics of both fungi and amoebae.
+<p align="center">
+  <a href="https://commons.wikimedia.org/wiki/File:Slime_mold_sporangia_01.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Slime_mold_sporangia_01.jpg/512px-Slime_mold_sporangia_01.jpg?20090102235855" alt="Slime mold sporangia 01" width="512" />
+  </a>
+  <br>
+  <span> Tony Wills, via <a href="https://commons.wikimedia.org/wiki/File:Slime_mold_sporangia_01.jpg">Wikimedia Commons</a></span>
+</p>
+
+Protists play various ecological roles, including being primary producers in aquatic ecosystems and decomposers in terrestrial environments. See how they have some visual similarities to fungi?
+
+**Learn More:**
+- [Protists Overview - California State University Pressbooks](https://pressbooks.calstate.edu/biol102/chapter/protists/)
+- [Introduction to Protists - LibreTexts](https://bio.libretexts.org/Bookshelves/Botany/Botany_(Ha_Morrow_and_Algiers)/02%3A_Biodiversity_(Organismal_Groups)/2.04%3A_Protists/2.4.01%3A_Introduction_to_Protists)
+
+## Educational Resources
+
+### Fungi Basics
+
+- [Fungi Overview - Encyclopedia of Life](https://eol.org/pages/4945)
+- [Introduction to Fungi - Khan Academy](https://www.khanacademy.org/science/biology/her/tree-of-life/a/introduction-to-fungi)
+
+### Protists Basics
+
+- [Protists Overview - Encyclopedia of Life](https://eol.org/pages/22965)
+- [Introduction to Protists - Khan Academy](https://www.khanacademy.org/science/biology/her/tree-of-life/a/introduction-to-protists)
+
+
+## Interactive and Fun Learning
+
+- **Cordyceps:** Explore the intriguing world of Cordyceps, the fungus that controls the minds of insects, with this [2024 TLOU Fungus Resource Guide](https://ca1-tls.edcdn.com/2024_TLOU-Fungus-resources.pdf)
+
+<p align="center">
+  <a href="https://youtu.be/ROQrbWkV4HI">
+    <img src="https://img.youtube.com/vi/ROQrbWkV4HI/maxresdefault.jpg" alt="Cordyceps Video" width="512" />
+  </a>
+  <br>
+  <span>Watch this video to learn more about Cordyceps and its behavior in insects.</span>
+</p>
+
+- **ProtoEvo:** "An interactive real-time simulation for evolving multicellular organisms." [ProtoEvo Project V2](https://github.com/DylanCope/ProtoEvo)
