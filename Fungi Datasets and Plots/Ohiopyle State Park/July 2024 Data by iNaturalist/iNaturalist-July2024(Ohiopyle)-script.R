@@ -27,7 +27,7 @@ loadfonts()
 
 # Load Data ----
 # Set working directory on Windows
-setwd("C:/Users/wittk/OneDrive/Documents/MycoMaps/MycoMaps/July & August 2024/July Data")
+setwd("C:/Users/wittk/OneDrive/Documents/MycoMaps/MycoMaps/Fungi Datasets and Plots/Ohiopyle State Park/July 2024 Data by iNaturalist")
 
 # Read the CSV file
 OhiopyleData <- read.csv("iNaturalist-July2024(Ohiopyle).csv")
