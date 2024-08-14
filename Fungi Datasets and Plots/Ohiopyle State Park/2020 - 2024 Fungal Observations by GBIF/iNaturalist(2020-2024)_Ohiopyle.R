@@ -86,7 +86,6 @@ ggplot(filtered_data, aes(x = reorder(taxon_class_name, -count), y = count, fill
     legend.background = element_rect(color = "black", linewidth = 0.5),
     legend.key = element_rect(color = "black", linewidth = 0.5),
     panel.grid.major = element_line(color = "grey70", linewidth = 0.5),
-    panel.grid.minor = element_blank(),
     plot.margin = margin(10, 10, 20, 10)
   ) +
   scale_fill_manual(values = fungi_colors_vibrant) +
