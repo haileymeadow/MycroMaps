@@ -12,12 +12,12 @@
 # Libraries ----
 # Install needed libraries
 install.packages("dplyr") # Species richness calculation
-install.packages("vegan") # Further species richness
+install.packages("vegan") # Diversity Index
 install.packages("ggplot2") # Visualize and Plot data
 install.packages("extrafont") # Add additional font styles
 install.packages("tibble") 
 install.packages("tidyr") # Tidying data for analysis
-install.packages("patchwork")
+install.packages("patchwork") # Combination of Plots
 
 
 library(dplyr)
@@ -92,7 +92,6 @@ color_palette <- c(
   "Leotiomycetes" = "#32CD32", 
   "Ascomycetes" = "#6A5ACD",  
   "Basidiomycetes" = "#FF4500", 
-  "Eurotiomycetes" = "#DAA520", 
   "Dothideomycetes" = "#FF1493", 
   "Saccharomycetes" = "#00FA9A", 
   "Mucoromycetes" = "#BA55D3",  
@@ -150,3 +149,6 @@ ggsave("combined_diversity_plot.png", combined_plot, width = 12, height = 6, dpi
 
 # Display the combined plot
 combined_plot
+
+dev.off()
+
