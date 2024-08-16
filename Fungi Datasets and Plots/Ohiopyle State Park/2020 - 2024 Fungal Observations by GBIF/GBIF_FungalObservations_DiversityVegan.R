@@ -151,4 +151,3 @@ ggsave("combined_diversity_plot.png", combined_plot, width = 12, height = 6, dpi
 combined_plot
 
 dev.off()
-
