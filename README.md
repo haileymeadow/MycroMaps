@@ -40,6 +40,9 @@ For many years, Mycologists classified Slime and Water molds as Mycological orga
 - **Interactive Maps**: Interactive Maps displaying Fungi and Protist species. 
 - **Open-Source**: The repository is open to contributions and collaboration from the community.
 
+[Knowledge Base](https://github.com/haileymeadow/MycroMaps/blob/main/docs/Knowledge%20Base/README.md)
+
+
 ## Datasets
 
 The following datasets are/will be included in this repository:
