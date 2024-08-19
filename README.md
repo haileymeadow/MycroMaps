@@ -35,13 +35,10 @@ For many years, Mycologists classified Slime and Water molds as Mycological orga
 ### Key Features
 
 - **Datasets**: Includes diverse datasets on Fungi and Protist species.
-- **Knowledge Database**: Information database containing links, videos, and documents highlighting the two kingdoms.
+- [**Knowledge Database**](https://github.com/haileymeadow/MycroMaps/blob/main/docs/Knowledge%20Base/README.md): Information database containing links, videos, and documents highlighting the two kingdoms.
 - **R Scripts**: Pre-written R scripts for data cleaning, visualization, and statistical analysis.
 - **Interactive Maps**: Interactive Maps displaying Fungi and Protist species. 
 - **Open-Source**: The repository is open to contributions and collaboration from the community.
-
-[Knowledge Base](https://github.com/haileymeadow/MycroMaps/blob/main/docs/Knowledge%20Base/README.md)
-
 
 ## Datasets
 
