@@ -96,12 +96,12 @@ Protists play various ecological roles, including being primary producers in aqu
 ### Fungi Basics
 
 - [Fungi Overview - Encyclopedia of Life](https://eol.org/pages/5559)
-- [Introduction to Fungi - Khan Academy](https://www.khanacademy.org/science/biology/her/tree-of-life/a/introduction-to-fungi)
+- [Introduction to Fungi - Khan Academy](https://www.khanacademy.org/science/biology-essentials/x35f699f4a3703d4e:nomenclature-and-taxonomy/x35f699f4a3703d4e:fungi/v/reproduction-in-fungi)
 
 ### Protists Basics
 
 - [The Protist - Encylopedia of Life Support Systems](https://www.eolss.net/sample-chapters/c03/E6-71-90-16.pdf)
-- [Introduction to Protists - Khan Academy](https://www.khanacademy.org/science/biology/her/tree-of-life/a/introduction-to-protists)
+- [Introduction to Protists - Khan Academy](https://www.khanacademy.org/science/biology-essentials/x35f699f4a3703d4e:nomenclature-and-taxonomy/x35f699f4a3703d4e:protista/v/protista)
 
 
 ## Interactive and Fun Learning
