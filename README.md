@@ -40,16 +40,6 @@ For many years, Mycologists classified Slime and Water molds as Mycological orga
 - **Interactive Maps**: Interactive Maps displaying Fungi and Protist species. 
 - **Open-Source**: The repository is open to contributions and collaboration from the community.
 
-
-## Interactive Map
-
-Explore the interactive map for Mycetoza in Pennsylvania through the link below:
-
-[View Mycetoza Map in PA](https://github.com/haileymeadow/MycroMaps/blob/main/docs/Interactive/Interactive%20Maps/Map/Mycetoza_Map_PA.html)
-
-Feel free to navigate through the map to explore the data.
-
-
 ## Datasets
 
 The following datasets are/will be included in this repository:
