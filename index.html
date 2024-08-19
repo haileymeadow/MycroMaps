@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MycroMaps</title>
+    <title>🍄 MycroMaps - Explore Fungi and Protista</title>
     <style>
         body {
             font-family: 'Nunito', sans-serif;
@@ -11,14 +11,17 @@
             color: #333;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #f0f8f0;
         }
         header {
-            background: #d0f0c0;
-            color: #333;
+            background: #b8e0a0;
+            color: #3a5b3a;
             padding: 20px;
             text-align: center;
             border-bottom: 5px solid #4a6e41;
+            background-image: url('https://images.pexels.com/photos/9037099/pexels-photo-9037099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+            background-size: cover;
+            background-position: center;
         }
         .container {
             width: 80%;
@@ -28,8 +31,13 @@
         h1, h2 {
             font-family: 'Poppins', sans-serif;
         }
-        h2 {
+        h1 {
             color: #4a6e41;
+            font-size: 2.5em;
+        }
+        h2 {
+            color: #6a9a5b;
+            font-size: 2em;
         }
         a {
             color: #337ab7;
@@ -38,28 +46,30 @@
         a:hover {
             text-decoration: underline;
         }
-        footer {
-            background: #d0f0c0;
-            color: #333;
-            padding: 10px;
-            text-align: center;
-            border-top: 5px solid #4a6e41;
-            margin-top: 20px;
-            clear: both;
-        }
         .section {
-            background: #fff;
+            background: #ffffff;
             padding: 20px;
             margin-bottom: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        ul {
-            list-style: none;
-            padding: 0;
+        footer {
+            background: #b8e0a0;
+            color: #333;
+            padding: 10px;
+            text-align: center;
+            border-top: 5px solid #4a6e41;
         }
-        ul li {
-            margin-bottom: 10px;
+        .hero-image {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .section img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
         }
     </style>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Nunito:wght@400&display=swap" rel="stylesheet">
@@ -67,18 +77,74 @@
 <body>
     <header>
         <div class="container">
-            <h1>🍄 MycroMaps</h1>
-            <p><img src="https://github.com/haileymeadow/MycroMaps/blob/main/docs/Knowledge%20Base/MycroMaps.png" alt="MycroMaps" style="max-width: 100%; height: auto;"></p>
+            <h1>🍄 Welcome to MycroMaps!</h1>
         </div>
     </header>
 
     <div class="container content">
-        <!-- Add the Interactive Maps section here -->
-        <section id="interactive-maps" class="section">
-            <h2>Interactive Maps</h2>
-            <p><a href="docs/Interactive%20Maps">Explore interactive maps displaying Fungi and Protista species.</a></p>
+        <section class="section">
+            <img src="https://www.patagonjournal.com/images/stories/fundacionfungi-CP8LlVmJ4sA.jpg" alt="Giuliana Furci" class="hero-image">
+            <p class="caption">Founder of the Fungi Foundation, the first NGO dedicated to fungi in the world.</p>
+            <h2>Explore the Fascinating World of Fungi and Protista</h2>
+            <p>Welcome to MycroMaps! This project provides datasets, scripts, and resources for analyzing Fungi and Protoctista species using R and GIS tools. Dive into our resources to explore ecological research, biodiversity analysis, and spatial studies related to these incredible organisms.</p>
         </section>
-        <!-- Other sections -->
+        
+        <section class="section">
+            <h2>Table of Contents</h2>
+            <ul>
+                <li><a href="#about-project">About the Project</a></li>
+                <li><a href="#key-features">Key Features</a></li>
+                <li><a href="#datasets">Datasets</a></li>
+                <li><a href="#prerequisites">Prerequisites</a></li>
+                <li><a href="#contributing">Contributing</a></li>
+                <li><a href="#acknowledgements">Acknowledgements</a></li>
+                <li><a href="https://haileymeadow.github.io/MycroMaps/docs/Interactive%20Maps/">Interactive Maps</a></li>
+            </ul>
+        </section>
+        
+        <section class="section" id="about-project">
+            <h2>About the Project</h2>
+            <p>This project was developed to study and analyze Fungi and Protist species through modern data science tools. As an Environmental Science student, I became fascinated with microbiologic (Mycro) organisms such as Fungi and Protists after I completed a Mycology course during my bachelor's degree. Combining my love for these organisms and a passion for technology, this project was born!</p>
+        </section>
+        
+        <section class="section" id="key-features">
+            <h2>Key Features</h2>
+            <ul>
+                <li><strong>Datasets:</strong> Includes diverse datasets on Fungi and Protist species.</li>
+                <li><a href="https://github.com/haileymeadow/MycroMaps/blob/main/docs/Knowledge%20Base/README.md"><strong>Knowledge Database:</strong> Information database containing links, videos, and documents highlighting the two kingdoms.</a></li>
+                <li><strong>R Scripts:</strong> Pre-written R scripts for data cleaning, visualization, and statistical analysis.</li>
+                <li><strong>Interactive Maps:</strong> <a href="https://haileymeadow.github.io/MycroMaps/docs/Interactive%20Maps/">Interactive maps displaying Fungi and Protist species.</a></li>
+                <li><strong>Open-Source:</strong> The repository is open to contributions and collaboration from the community.</li>
+            </ul>
+        </section>
+
+        <section class="section" id="datasets">
+            <h2>Datasets</h2>
+            <p>The following datasets are included in this repository:</p>
+            <ul>
+                <li><strong>Fungi Species Dataset:</strong> Contains records of various fungi species, including geographic locations, ecological conditions, and other relevant attributes.</li>
+                <li><strong>Protist Species Dataset:</strong> Includes data on protist species, focusing on species diversity and distribution.</li>
+            </ul>
+        </section>
+        
+        <section class="section" id="prerequisites">
+            <h2>Prerequisites</h2>
+            <ul>
+                <li><a href="https://www.r-project.org/">Download and install R</a></li>
+                <li><a href="https://rstudio.com/">Download and install RStudio</a> (Optional, but recommended for easier R programming)</li>
+                <li><a href="https://qgis.org/">Download and install QGIS</a> (Optional, but recommended for spatial analysis and GIS integration)</li>
+            </ul>
+        </section>
+        
+        <section class="section" id="contributing">
+            <h2>Contributing</h2>
+            <p>I welcome any and all contributions to this project! I am a beginner in learning GitHub and have only general knowledge of plotting in R and GIS. This project is to help grow my skillsets.</p>
+        </section>
+        
+        <section class="section" id="acknowledgements">
+            <h2>Acknowledgements</h2>
+            <p>Special thanks to the mycology and protistology communities for their data and insights. This project was inspired by fieldwork and research conducted at <a href="https://sai.calu.edu/farm/">Pennsylvania Western University</a> and inspired by other projects such as <a href="https://www.spun.earth/">SPUN</a>, <a href="https://fungimap.org.au/">fungiMap</a>, and <a href="https://www.mycoportal.org/portal/index.php">MyCoPortal</a>.</p>
+        </section>
     </div>
 
     <footer>
