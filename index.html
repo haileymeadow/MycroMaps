@@ -7,62 +7,156 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            line-height: 1.6;
             margin: 0;
             padding: 0;
-            line-height: 1.6;
+            color: #333;
             background-color: #f4f4f4;
         }
-        .container {
-            max-width: 1200px;
-            margin: auto;
-            padding: 20px;
-            background: #fff;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
         header {
+            background: #4CAF50;
+            color: #fff;
+            padding: 1rem 0;
             text-align: center;
-            padding-bottom: 20px;
         }
-        header img {
+        img {
             max-width: 100%;
             height: auto;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            overflow: hidden;
         }
         h1, h2, h3 {
             color: #333;
         }
         a {
-            color: #007BFF;
+            color: #4CAF50;
             text-decoration: none;
         }
         a:hover {
             text-decoration: underline;
         }
-        ul {
-            list-style: none;
-            padding: 0;
+        .content {
+            padding: 2rem 0;
         }
-        ul li {
-            margin-bottom: 10px;
+        .table-of-contents {
+            margin: 1rem 0;
+        }
+        .table-of-contents a {
+            display: block;
+            margin: 0.5rem 0;
+        }
+        .section {
+            margin-bottom: 2rem;
+        }
+        .section h2 {
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 0.5rem;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>
+    <header>
+        <div class="container">
             <h1>🍄 MycroMaps</h1>
-            <img src="https://github.com/haileymeadow/MycroMaps/blob/main/docs/Knowledge%20Base/MycroMaps.png" alt="MycroMaps">
-        </header>
+            <p><img src="https://github.com/haileymeadow/MycroMaps/blob/main/docs/Knowledge%20Base/MycroMaps.png" alt="MycroMaps"></p>
+        </div>
+    </header>
 
-        <h2>Welcome to MycroMaps!</h2>
-        <p>This repository contains datasets, scripts, and resources for analyzing Fungi and Protoctista species using R and GIS tools.</p>
-        
-        <h3>Links to Documents in `docs` Directory</h3>
-        <ul>
-            <li><a href="docs/Fungi%20Datasets%20and%20Plots/Ohiopyle%20State%20Park">Fungi Datasets and Plots</a></li>
-            <li><a href="docs/Interactive%20Maps/index.html">Interactive Maps</a></li>
-            <li><a href="docs/Knowledge%20Base/index.html">Knowledge Base</a></li>
-            <li><a href="docs/Protista%20Datasets%20and%20Plot">Protista Datasets and Plot</a></li>
-        </ul>
+    <div class="container content">
+        <section class="table-of-contents">
+            <h2>Table of Contents</h2>
+            <a href="#about-my-project">About the Project</a>
+            <a href="#key-features">Key Features</a>
+            <a href="#datasets">Datasets</a>
+            <a href="#prerequisites">Prerequisites</a>
+            <a href="#contributing">Contributing</a>
+            <a href="#acknowledgements">Acknowledgements</a>
+        </section>
+
+        <section id="about-my-project" class="section">
+            <h2>About my Project</h2>
+            <p>This project was developed to study and analyze Fungi and Protoctista species through modern data science tools. As an Environmental Science student, I became fascinated with microbiologic (Mycro) organisms such as Fungi and Protoctista after completing a Mycology course during my bachelor's degree. Combining my love for these organisms and a passion for technology, this project was born!</p>
+            
+            <h3>Why Protoctista?</h3>
+            <p>For many years, Mycologists classified Slime and Water molds as Mycological organisms due to their appearance and similarities to fungi species. In the mid-20th century, thanks to advancements in technology, scientists began to recognize that these organisms contained traits from each of the other kingdoms but didn't quite fit into one. This led to the reclassification of slime molds and water molds into the kingdom Protoctista (now often referred to as Protista).</p>
+            
+            <p align="center">
+                <a href="https://youtu.be/nPOQQp8CCls">
+                    <img src="https://img.youtube.com/vi/nPOQQp8CCls/hqdefault.jpg" alt="Watch the video">
+                </a>
+            </p>
+        </section>
+
+        <section id="key-features" class="section">
+            <h2>Key Features</h2>
+            <ul>
+                <li><strong>Datasets:</strong> Includes diverse datasets on Fungi and Protoctista species.</li>
+                <li><a href="https://github.com/haileymeadow/MycroMaps/blob/main/docs/Knowledge%20Base/README.md"><strong>Knowledge Database</strong></a>: Information database containing links, videos, and documents highlighting the two kingdoms.</li>
+                <li><strong>R Scripts:</strong> Pre-written R scripts for data cleaning, visualization, and statistical analysis.</li>
+                <li><strong>Interactive Maps:</strong> Interactive Maps displaying Fungi and Protoctista species.</li>
+                <li><strong>Open-Source:</strong> The repository is open to contributions and collaboration from the community.</li>
+            </ul>
+        </section>
+
+        <section id="datasets" class="section">
+            <h2>Datasets</h2>
+            <p>The following datasets are/will be included in this repository:</p>
+            <ul>
+                <li><strong>Fungi Species Dataset:</strong>
+                    <ul>
+                        <li><strong>Description:</strong> Contains records of various fungi species, including geographic locations, ecological conditions, and other relevant attributes.</li>
+                        <li><strong>Format:</strong> CSV, GeoJSON</li>
+                        <li><strong>Source:</strong> Collected from fieldwork and public databases.</li>
+                    </ul>
+                </li>
+                <li><strong>Protist Species Dataset:</strong>
+                    <ul>
+                        <li><strong>Description:</strong> Includes data on Protist species, with a focus on species diversity and distribution.</li>
+                        <li><strong>Format:</strong> CSV, GeoJSON</li>
+                        <li><strong>Source:</strong> Field studies and verified databases.</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section id="prerequisites" class="section">
+            <h2>Prerequisites</h2>
+            <p>Ensure you have the following software installed:</p>
+            <ul>
+                <li><a href="https://www.r-project.org/">Download and install R</a></li>
+                <li><a href="https://rstudio.com/">Download and install RStudio</a> (Optional, but recommended for easier R programming)</li>
+                <li><a href="https://qgis.org/">Download and install QGIS</a> (Optional, but recommended for spatial analysis and GIS integration, QGIS is open source and free!)</li>
+            </ul>
+        </section>
+
+        <section id="contributing" class="section">
+            <h2>Contributing</h2>
+            <p>I welcome any and all contributions to this project! I am a beginner in learning GitHub and have only general knowledge of plotting in R and GIS. This project is to help grow my skillsets.</p>
+        </section>
+
+        <section id="acknowledgements" class="section">
+            <h2>Acknowledgements</h2>
+            <ul>
+                <li>Special thanks to the mycology and protistology communities for their data and insights.</li>
+                <li>This project was inspired by fieldwork and research conducted at <a href="https://sai.calu.edu/farm/">Pennsylvania Western University</a> and inspired by other projects such as <a href="https://www.spun.earth/">SPUN</a>, <a href="https://fungimap.org.au/">fungiMap</a>, and <a href="https://www.mycoportal.org/portal/index.php">MyCoPortal</a>.</li>
+            </ul>
+        </section>
     </div>
+
+    <footer>
+        <p>&copy; 2024 MycroMaps. All rights reserved.</p>
+    </footer>
 </body>
 </html>
