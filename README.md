@@ -38,6 +38,11 @@ For many years, Mycologists classified Slime and Water molds as Mycological orga
 - **GIS Tools**: Resources and guides for incorporating these datasets into GIS software for spatial analysis.
 - **Open-Source**: The repository is open to contributions and collaboration from the community.
 
+
+## Interactive Map 
+
+An interactive map of Mycetoza observations in PA can be viewed [here!](https://github.com/haileymeadow/MycroMaps/blob/main/Protista%20Datasets%20and%20Plot/Mycetoza_PA/Map/Mycetoza_Map_PA.html)
+
 ## Datasets
 
 The following datasets are/will be included in this repository:
