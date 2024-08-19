@@ -1,7 +1,7 @@
 # 🍄  MycroMaps 
 
 <p align="center">
-  <img src="https://github.com/haileymeadow/MycroMaps/blob/main/Knowledge%20Base/MycroMaps.png?raw=true" alt="MycroMaps">
+  <img src="https://github.com/haileymeadow/MycroMaps/blob/main/docs/Knowledge%20Base/MycroMaps.png" alt="MycroMaps">
 </p>
 
 
@@ -11,6 +11,7 @@ Welcome to the MycroMaps project! This repository contains datasets, scripts, an
 ## Table of Contents
 
 - [About the Project](#about-my-project)
+- [Key Features](#key-features)
 - [Datasets](#datasets)
 - [Prerequisites](#prerequisites)
 - [Contributing](#contributing)
@@ -31,17 +32,13 @@ For many years, Mycologists classified Slime and Water molds as Mycological orga
 </p>
 
 
-### Key Features (ongoing)
+### Key Features
 
 - **Datasets**: Includes diverse datasets on Fungi and Protist species.
-- **R Scripts**: Pre-written R scripts for data cleaning, visualization, and statistical analysis. 
-- **GIS Tools**: Resources and guides for incorporating these datasets into GIS software for spatial analysis.
+- **Knowledge Database**: Information database containing links, videos, and documents highlighting the two kingdoms.
+- **R Scripts**: Pre-written R scripts for data cleaning, visualization, and statistical analysis.
+- **Interactive Maps**: Interactive Maps displaying Fungi and Protist species. 
 - **Open-Source**: The repository is open to contributions and collaboration from the community.
-
-
-## Interactive Map 
-
-An interactive map of Mycetoza observations in PA can be viewed [here!](https://github.com/haileymeadow/MycroMaps/blob/main/Protista%20Datasets%20and%20Plot/Mycetoza_PA/Map/Mycetoza_Map_PA.html)
 
 ## Datasets
 
