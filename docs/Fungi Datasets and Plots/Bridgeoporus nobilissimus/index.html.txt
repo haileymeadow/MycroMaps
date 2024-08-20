@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> <i>Bridgeoporus nobilissimus</i> Conservation Project</title>
+    <style>
+        body {
+            font-family: 'Nunito', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e9f5f5; /* Light blue-green background */
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background-color: #d0f0c0; /* Light green background */
+            color: #333;
+            padding: 20px 0;
+            text-align: center;
+            border-bottom: 5px solid #4a6e41; /* Dark green border */
+        }
+        h1, h2 {
+            font-family: 'Poppins', sans-serif;
+            color: #4a6e41; /* Dark green text for headers */
+        }
+        .content {
+            background-color: #ffffff;
+            padding: 20px;
+            margin-top: 10px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .chart {
+            margin: 20px 0;
+        }
+        iframe {
+            width: 100%;
+            border: none;
+            height: 600px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #d0f0c0; /* Light green background */
+            color: #333;
+            padding: 15px 0;
+            text-align: center;
+            border-top: 5px solid #4a6e41; /* Dark green border */
+            margin-top: 20px;
+        }
+        .taxonomy, .conservation-status {
+            background-color: #ffffff;
+            padding: 20px;
+            margin-top: 10px;
+            border-radius: 8px;
+            border: 1px solid #b2d8d8; /* Light blue-green border */
+        }
+        .taxonomy h2, .conservation-status h2 {
+            margin-top: 0;
+        }
+        .iucn-logo {
+            max-width: 150px;
+            height: auto;
+            margin: 10px 0;
+        }
+        a {
+            color: #4a6e41; /* Dark green for links */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Nunito:wght@400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1><i>Bridgeoporus nobilissimus</i> Conservation Project</h1>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>Project Overview</h2>
+            <p>This project aims to highlight the conservation status of <i>Bridgeoporus nobilissimus</i>, a critically endangered fungal species in the Northwestern United States. Below I have gathered data on its distribution, threats, and conservation needs to better understand and protect this unique organism.</p>
+        </div>
+        <div class="content" style="text-align: center;">
+            <h2>Photo of <i>Bridgeoporus nobilissimus</i></h2>
+            <img src="https://www.mykoweb.com/CAF/photos/Bridgeoporus_nobilissimus_ns-01.jpg" alt="Bridgeoporus nobilissimus">
+            <p style="font-style: italic; margin-top: 7px;">Photo: © Noah Seigel</p>
+        </div>
+        <div class="taxonomy">
+            <h2>Taxonomy</h2>
+            <p><strong>Kingdom:</strong> Fungi</p>
+            <p><strong>Phylum:</strong> Basidiomycota</p>
+            <p><strong>Class:</strong> Agaricomycetes</p>
+            <p><strong>Order:</strong> Polyporales</p>
+            <p><strong>Family:</strong> Polyporaceae</p>
+            <p><strong>Genus:</strong> Bridgeoporus</p>
+            <p><strong>Species:</strong> <i>Bridgeoporus nobilissimus</i></p>
+            <p><strong>Taxon Name:</strong> <i>Bridgeoporus nobilissimus</i> (W.B. Cooke) T.J. Volk, Burds. & Ammirati</p>
+            <p><strong>Synonym(s):</strong> <i>Oxyporus nobilissimus</i> W.B. Cooke is no longer used. Recent taxonomic revisions have updated its classification. For more details, visit the <a href="https://botit.botany.wisc.edu/toms_fungi/bridgeop.html" target="_blank">Botany Webpage on Bridgeoporus nobilissimus</a>.</p>
+            <p><strong>Taxonomic Notes:</strong> See Burdsall et al. (1996) and Redberg et al. (2003) for its taxonomic position.</p>
+        </div>
+        <div class="conservation-status">
+            <h2>IUCN Status</h2>
+            <div class="content" style="text-align: center;">
+                <img src="https://help.lichenportal.org/wp-content/uploads/2024/01/Red-List-Threat-Categories-SHORT_CR.png" alt="IUCN Critically Endangered Logo" class="iucn-logo">
+            </div>
+            <p><i>Bridgeoporus nobilissimus</i> is classified as Critically Endangered by the International Union for Conservation of Nature (IUCN). For more details, visit the <a href="https://redlist.info/iucn/species_view/436295/" target="_blank">IUCN Red List page</a>.</p>
+        </div>
+        <div class="content">
+            <h2>Basic Information</h2>
+            <p><strong>Habitat:</strong> <i>Bridgeoporus nobilissimus</i> is found only in the Cascade Mountain Range in Washington and Oregon, the Coast Range on the Olympic Peninsula, and a small area in northern California. It grows on large noble firs (<i>Abies procera</i>) and occasionally on Pacific silver fir (<i>Abies amabilis</i>), in old-growth forests.</p>
+            <p><strong>Ecology:</strong> This species plays a crucial role in wood decomposition and nutrient cycling within its ecosystem.</p>
+            <p><strong>Conservation Challenges:</strong> Major threats include deforestation, habitat fragmentation, and climate change, which impact its natural habitat and survival.</p>
+        </div>
+        <div class="content">
+            <h2>Data Visualization (under construction)</h2>
+            <p>Explore the distribution and conservation status of <i>Bridgeoporus nobilissimus</i> through interactive maps and visualizations.</p>
+            <div class="chart">
+                <h3>Species Distribution Map</h3>
+                <iframe src="Bridgeoporus_nobilissimus_distribution.html"></iframe>
+            </div>
+            <div class="chart">
+                <h3>Conservation Status Timeline</h3>
+                <iframe src="Conservation_Status_Timeline.html"></iframe>
+            </div>
+            <div class="chart">
+                <h3>Threats and Conservation Efforts</h3>
+                <img src="threats_and_conservation_infographic.png" alt="Threats and Conservation Efforts">
+            </div>
+        </div>
+        <div class="content">
+            <h2>References</h2>
+            <ul style="list-style-type: none; padding: 0;">
+                <li style="margin-bottom: 10px;">
+                    <a href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.121915/Bridgeoporus_nobilissimus" target="_blank">NatureServe Explorer</a>
+                </li>
+                <li style="margin-bottom: 10px;">
+                    <a href="https://botit.botany.wisc.edu/toms_fungi/bridgeop.html" target="_blank">Tom Volk's Fungi</a>
+                </li>
+                <li style="margin-bottom: 10px;">
+                    <a href="https://www.inaturalist.org/taxa/481440-Bridgeoporus_nobilissimus" target="_blank">iNaturalist</a>
+                </li>
+                <li style="margin-bottom: 10px;">
+                    <a href="https://www.mykoweb.com/CAF/species/Bridgeoporus_nobilissimus.html" target="_blank">MykoWeb</a>
+                </li>
+                <li style="margin-bottom: 10px;">
+                    <a href="https://redlist.info/iucn/species_view/436295/" target="_blank">IUCN Red List Information</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <footer>
+         <p>&copy; 2024 MycroMaps. All rights reserved.</p>
+    </footer>
+</body>
+</html>
